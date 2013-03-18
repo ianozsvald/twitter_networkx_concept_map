@@ -13,6 +13,10 @@ Goal:
 
 Turn a set of streamed Twitter firehose JSON tweets into a Twitter concept net showing commonly discussed pairs of hashtags and users.
 
+![Example usernames hashtags for pycon2013](pycon_output/pycon2013_hashtags_usernames.png?raw=true)
+
+![Example usernames hashtags for pycon2013](pycon_output/pycon_tags_people_communities.png?raw=true)
+
 Requirements:
 ------------
 
