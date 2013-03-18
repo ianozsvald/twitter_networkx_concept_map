@@ -13,7 +13,7 @@ Goal:
 
 Turn a set of streamed Twitter firehose JSON tweets into a Twitter concept net showing commonly discussed pairs of hashtags and users.
 
-Here we see a plot from my blog post http://ianozsvald.com/2013/03/18/semantic-map-of-pycon2013-twitter-topics/ demonstrating the hashtags and usernames that were grouped together at PyCon 2013:
+Here we see a plot from my blog post http://ianozsvald.com/2013/03/18/semantic-map-of-pycon2013-twitter-topics/ demonstrating the hashtags and usernames that were grouped together at PyCon 2013. White is #hashtags, purple is @usernames:
 
 ![Example usernames hashtags for pycon2013](pycon_output/pycon2013_hashtags_usernames.png?raw=true)
 
@@ -63,3 +63,8 @@ To build the above and draw the graph use --draw-networkx:
 To save a graphml output (for importing into Gephi) use:
 
     $ extractor_content.py --json-cleaned clean_pycon.json  --remove-nodes #pycon #python #pycon2013 @pycon --write-graphml pyconout.graphml
+
+Other arguments:
+
+    --remove_usernames_below n  # strip users with less than n occurrences
+    --remove_hashtags_below n  # strip hashtags with less than n occurrences

@@ -100,6 +100,8 @@ if __name__ == "__main__":
     parser.add_argument('--remove-nodes', nargs="*", help='Remove named nodes e.g. "--remove-nodes #pycon @pycon"')
     parser.add_argument('--draw-networkx', action="store_true", help='Draw the graph using networkX')
     parser.add_argument('--write-graphml', help='Filename for graphml output')
+    parser.add_argument('--remove-usernames-below', type=int, default=50, help='Remove usernames who are mentioned less than n times e.g. "--remove-usernames-below 50"')
+    parser.add_argument('--remove-hashtags-below', type=int, default=2, help='Remove hashtags that are mentioned less than n times e.g. "--remove-hashtagss-below 2"')
     args = parser.parse_args()
 
     if args.json_raw:
@@ -144,10 +146,10 @@ if __name__ == "__main__":
 
         for node in hashtag_net.nodes():
             if node.startswith('@'):
-                if hashtag_net.node[node]['weight'] < 50:
+                if hashtag_net.node[node]['weight'] < args.remove_usernames_below:
                     hashtag_net.remove_node(node)
             if node.startswith('#'):
-                if hashtag_net.node[node]['weight'] < 2:
+                if hashtag_net.node[node]['weight'] < args.remove_hashtags_below:
                     hashtag_net.remove_node(node)
 
         # remove nodes that too many people might be connected to
