@@ -13,7 +13,11 @@ Goal:
 
 Turn a set of streamed Twitter firehose JSON tweets into a Twitter concept net showing commonly discussed pairs of hashtags and users.
 
+Here we see a plot from my blog post http://ianozsvald.com/2013/03/18/semantic-map-of-pycon2013-twitter-topics/ demonstrating the hashtags and usernames that were grouped together at PyCon 2013:
+
 ![Example usernames hashtags for pycon2013](pycon_output/pycon2013_hashtags_usernames.png?raw=true)
+
+Using the above data inside Gephi I extract a set of communities:
 
 ![Example usernames hashtags for pycon2013](pycon_output/pycon_tags_people_communities.png?raw=true)
 
