@@ -4,179 +4,84 @@
   <key attr.name="weight" attr.type="int" for="node" id="d1" />
   <key attr.name="type" attr.type="int" for="node" id="d0" />
   <graph edgedefault="undirected">
-    <node id="#pyworks">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">pyworks</data>
+    <node id="eben upton">
+      <data key="d0">2</data>
+      <data key="d1">35</data>
+      <data key="d2">eben upton</data>
     </node>
-    <node id="@palendae">
-      <data key="d0">1</data>
-      <data key="d1">53</data>
-      <data key="d2">palendae</data>
-    </node>
-    <node id="#ipython">
-      <data key="d0">0</data>
-      <data key="d1">97</data>
-      <data key="d2">ipython</data>
-    </node>
-    <node id="#cherrypy">
-      <data key="d0">0</data>
-      <data key="d1">41</data>
-      <data key="d2">cherrypy</data>
-    </node>
-    <node id="#yay">
-      <data key="d0">0</data>
-      <data key="d1">9</data>
-      <data key="d2">yay</data>
+    <node id="jalen rose">
+      <data key="d0">2</data>
+      <data key="d1">25</data>
+      <data key="d2">jalen rose</data>
     </node>
     <node id="#galaxys4">
       <data key="d0">0</data>
       <data key="d1">23</data>
       <data key="d2">galaxys4</data>
     </node>
-    <node id="#gemini">
-      <data key="d0">0</data>
-      <data key="d1">17</data>
-      <data key="d2">gemini</data>
-    </node>
     <node id="#plover">
       <data key="d0">0</data>
       <data key="d1">7</data>
       <data key="d2">plover</data>
     </node>
-    <node id="#openscience">
+    <node id="#adacamp">
       <data key="d0">0</data>
-      <data key="d1">43</data>
-      <data key="d2">openscience</data>
-    </node>
-    <node id="#tralalalalaaa">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">tralalalalaaa</data>
+      <data key="d1">31</data>
+      <data key="d2">adacamp</data>
     </node>
     <node id="@capttwinky">
       <data key="d0">1</data>
-      <data key="d1">51</data>
+      <data key="d1">55</data>
       <data key="d2">capttwinky</data>
     </node>
     <node id="#postgresql">
       <data key="d0">0</data>
-      <data key="d1">51</data>
+      <data key="d1">59</data>
       <data key="d2">postgresql</data>
     </node>
-    <node id="@solanolabs">
-      <data key="d0">1</data>
-      <data key="d1">105</data>
-      <data key="d2">solanolabs</data>
-    </node>
-    <node id="#tipbof">
-      <data key="d0">0</data>
-      <data key="d1">93</data>
-      <data key="d2">tipbof</data>
-    </node>
-    <node id="#dives">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">dives</data>
-    </node>
-    <node id="#raspberrypi">
-      <data key="d0">0</data>
-      <data key="d1">289</data>
-      <data key="d2">raspberrypi</data>
-    </node>
-    <node id="#io">
-      <data key="d0">0</data>
-      <data key="d1">11</data>
-      <data key="d2">io</data>
-    </node>
-    <node id="@caktusgroup">
-      <data key="d0">1</data>
-      <data key="d1">53</data>
-      <data key="d2">caktusgroup</data>
+    <node id="eben upton brings">
+      <data key="d0">2</data>
+      <data key="d1">31</data>
+      <data key="d2">eben upton brings</data>
     </node>
     <node id="#openstack">
       <data key="d0">0</data>
-      <data key="d1">33</data>
+      <data key="d1">39</data>
       <data key="d2">openstack</data>
-    </node>
-    <node id="#bof">
-      <data key="d0">0</data>
-      <data key="d1">35</data>
-      <data key="d2">bof</data>
-    </node>
-    <node id="#openaccess">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">openaccess</data>
-    </node>
-    <node id="#10thingsigetalot">
-      <data key="d0">0</data>
-      <data key="d1">19</data>
-      <data key="d2">10thingsigetalot</data>
-    </node>
-    <node id="@jackiekazil">
-      <data key="d0">1</data>
-      <data key="d1">55</data>
-      <data key="d2">jackiekazil</data>
-    </node>
-    <node id="@raspberry_pi">
-      <data key="d0">1</data>
-      <data key="d1">189</data>
-      <data key="d2">raspberry_pi</data>
     </node>
     <node id="#raspberryio">
       <data key="d0">0</data>
-      <data key="d1">5</data>
+      <data key="d1">7</data>
       <data key="d2">raspberryio</data>
     </node>
     <node id="#drinks">
       <data key="d0">0</data>
-      <data key="d1">7</data>
+      <data key="d1">9</data>
       <data key="d2">drinks</data>
-    </node>
-    <node id="#aws">
-      <data key="d0">0</data>
-      <data key="d1">11</data>
-      <data key="d2">aws</data>
-    </node>
-    <node id="#shootforthestars">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">shootforthestars</data>
     </node>
     <node id="#newrelic">
       <data key="d0">0</data>
-      <data key="d1">17</data>
+      <data key="d1">19</data>
       <data key="d2">newrelic</data>
+    </node>
+    <node id="python weekly">
+      <data key="d0">2</data>
+      <data key="d1">39</data>
+      <data key="d2">python weekly</data>
     </node>
     <node id="#saltstack">
       <data key="d0">0</data>
-      <data key="d1">59</data>
+      <data key="d1">61</data>
       <data key="d2">saltstack</data>
     </node>
-    <node id="@calvinhp">
-      <data key="d0">1</data>
-      <data key="d1">53</data>
-      <data key="d2">calvinhp</data>
-    </node>
-    <node id="@adainitiative">
-      <data key="d0">1</data>
-      <data key="d1">93</data>
-      <data key="d2">adainitiative</data>
-    </node>
-    <node id="@thepsf">
-      <data key="d0">1</data>
-      <data key="d1">101</data>
-      <data key="d2">thepsf</data>
-    </node>
-    <node id="#visualization">
+    <node id="#async">
       <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">visualization</data>
+      <data key="d1">11</data>
+      <data key="d2">async</data>
     </node>
     <node id="#fb">
       <data key="d0">0</data>
-      <data key="d1">23</data>
+      <data key="d1">25</data>
       <data key="d2">fb</data>
     </node>
     <node id="#winning">
@@ -184,39 +89,24 @@
       <data key="d1">7</data>
       <data key="d2">winning</data>
     </node>
-    <node id="#styleseat">
-      <data key="d0">0</data>
-      <data key="d1">81</data>
-      <data key="d2">styleseat</data>
-    </node>
-    <node id="#sfo">
-      <data key="d0">0</data>
-      <data key="d1">31</data>
-      <data key="d2">sfo</data>
-    </node>
-    <node id="@geodawg">
-      <data key="d0">1</data>
-      <data key="d1">121</data>
-      <data key="d2">geodawg</data>
-    </node>
-    <node id="#pyvegans">
-      <data key="d0">0</data>
-      <data key="d1">11</data>
-      <data key="d2">pyvegans</data>
+    <node id="santa clara convention center">
+      <data key="d0">2</data>
+      <data key="d1">127</data>
+      <data key="d2">santa clara convention center</data>
     </node>
     <node id="#bedroomclosetdatacenter">
       <data key="d0">0</data>
       <data key="d1">9</data>
       <data key="d2">bedroomclosetdatacenter</data>
     </node>
-    <node id="#zipsgameday">
-      <data key="d0">0</data>
-      <data key="d1">9</data>
-      <data key="d2">zipsgameday</data>
+    <node id="adacamp q&amp;amp">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">adacamp q&amp;amp</data>
     </node>
     <node id="@gvanrossum">
       <data key="d0">1</data>
-      <data key="d1">97</data>
+      <data key="d1">103</data>
       <data key="d2">gvanrossum</data>
     </node>
     <node id="#rasperrypi">
@@ -229,440 +119,150 @@
       <data key="d1">15</data>
       <data key="d2">tedxdeextinction</data>
     </node>
-    <node id="@dabeaz">
-      <data key="d0">1</data>
-      <data key="d1">109</data>
-      <data key="d2">dabeaz</data>
-    </node>
-    <node id="#pandas">
-      <data key="d0">0</data>
-      <data key="d1">41</data>
-      <data key="d2">pandas</data>
-    </node>
-    <node id="#unicode">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">unicode</data>
-    </node>
-    <node id="#hackerhive">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">hackerhive</data>
-    </node>
-    <node id="#paas">
-      <data key="d0">0</data>
-      <data key="d1">55</data>
-      <data key="d2">paas</data>
+    <node id="visualizing github">
+      <data key="d0">2</data>
+      <data key="d1">33</data>
+      <data key="d2">visualizing github</data>
     </node>
     <node id="@kcunning">
       <data key="d0">1</data>
-      <data key="d1">77</data>
+      <data key="d1">79</data>
       <data key="d2">kcunning</data>
     </node>
-    <node id="@dirnonline">
-      <data key="d0">1</data>
-      <data key="d1">55</data>
-      <data key="d2">dirnonline</data>
+    <node id="monetate engineering">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">monetate engineering</data>
     </node>
-    <node id="@sigep311">
-      <data key="d0">1</data>
-      <data key="d1">107</data>
-      <data key="d2">sigep311</data>
-    </node>
-    <node id="#herpderp">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">herpderp</data>
-    </node>
-    <node id="#win">
-      <data key="d0">0</data>
-      <data key="d1">19</data>
-      <data key="d2">win</data>
-    </node>
-    <node id="#simplecv">
-      <data key="d0">0</data>
-      <data key="d1">27</data>
-      <data key="d2">simplecv</data>
-    </node>
-    <node id="#kcamessagetobtr">
-      <data key="d0">0</data>
-      <data key="d1">17</data>
-      <data key="d2">kcamessagetobtr</data>
-    </node>
-    <node id="@jointheflock">
-      <data key="d0">1</data>
-      <data key="d1">893</data>
-      <data key="d2">jointheflock</data>
-    </node>
-    <node id="#postgres">
-      <data key="d0">0</data>
-      <data key="d1">21</data>
-      <data key="d2">postgres</data>
-    </node>
-    <node id="#sxsw">
-      <data key="d0">0</data>
-      <data key="d1">43</data>
-      <data key="d2">sxsw</data>
-    </node>
-    <node id="#southwest">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">southwest</data>
-    </node>
-    <node id="@kennethreitz">
-      <data key="d0">1</data>
-      <data key="d1">75</data>
-      <data key="d2">kennethreitz</data>
-    </node>
-    <node id="#youshouldbehere">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">youshouldbehere</data>
+    <node id="santa clara">
+      <data key="d0">2</data>
+      <data key="d1">187</data>
+      <data key="d2">santa clara</data>
     </node>
     <node id="#meetup">
       <data key="d0">0</data>
       <data key="d1">11</data>
       <data key="d2">meetup</data>
     </node>
-    <node id="@idangazit">
-      <data key="d0">1</data>
-      <data key="d1">91</data>
-      <data key="d2">idangazit</data>
-    </node>
     <node id="@pydanny">
       <data key="d0">1</data>
-      <data key="d1">67</data>
+      <data key="d1">77</data>
       <data key="d2">pydanny</data>
     </node>
     <node id="#nailjerks">
       <data key="d0">0</data>
-      <data key="d1">83</data>
+      <data key="d1">87</data>
       <data key="d2">nailjerks</data>
-    </node>
-    <node id="#opensource">
-      <data key="d0">0</data>
-      <data key="d1">17</data>
-      <data key="d2">opensource</data>
     </node>
     <node id="#notebook">
       <data key="d0">0</data>
       <data key="d1">11</data>
       <data key="d2">notebook</data>
     </node>
-    <node id="#beaker">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">beaker</data>
-    </node>
-    <node id="#pifarm">
-      <data key="d0">0</data>
-      <data key="d1">19</data>
-      <data key="d2">pifarm</data>
-    </node>
-    <node id="#python_decorators">
-      <data key="d0">0</data>
-      <data key="d1">3</data>
-      <data key="d2">python_decorators</data>
-    </node>
-    <node id="#nothingfeelsbetterthan">
-      <data key="d0">0</data>
-      <data key="d1">15</data>
-      <data key="d2">nothingfeelsbetterthan</data>
-    </node>
-    <node id="#aaronsw">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">aaronsw</data>
-    </node>
-    <node id="@crlganz">
-      <data key="d0">1</data>
-      <data key="d1">51</data>
-      <data key="d2">crlganz</data>
-    </node>
-    <node id="#enjoy">
-      <data key="d0">0</data>
+    <node id="in n out">
+      <data key="d0">2</data>
       <data key="d1">13</data>
-      <data key="d2">enjoy</data>
+      <data key="d2">in n out</data>
     </node>
-    <node id="#pisces">
+    <node id="#cherrypy">
       <data key="d0">0</data>
-      <data key="d1">17</data>
-      <data key="d2">pisces</data>
+      <data key="d1">45</data>
+      <data key="d2">cherrypy</data>
     </node>
-    <node id="#inclusion">
+    <node id="#marryageek">
       <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">inclusion</data>
-    </node>
-    <node id="#pyconau">
-      <data key="d0">0</data>
-      <data key="d1">19</data>
-      <data key="d2">pyconau</data>
-    </node>
-    <node id="#adacamp">
-      <data key="d0">0</data>
-      <data key="d1">19</data>
-      <data key="d2">adacamp</data>
-    </node>
-    <node id="#today">
-      <data key="d0">0</data>
-      <data key="d1">11</data>
-      <data key="d2">today</data>
-    </node>
-    <node id="#async">
-      <data key="d0">0</data>
-      <data key="d1">11</data>
-      <data key="d2">async</data>
+      <data key="d1">55</data>
+      <data key="d2">marryageek</data>
     </node>
     <node id="#10minutemile">
       <data key="d0">0</data>
       <data key="d1">5</data>
       <data key="d2">10minutemile</data>
     </node>
-    <node id="#lca2013">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">lca2013</data>
+    <node id="taming pythons">
+      <data key="d0">2</data>
+      <data key="d1">283</data>
+      <data key="d2">taming pythons</data>
     </node>
-    <node id="#mozilla">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">mozilla</data>
-    </node>
-    <node id="@saucelabs">
-      <data key="d0">1</data>
-      <data key="d1">97</data>
-      <data key="d2">saucelabs</data>
-    </node>
-    <node id="#2013chappys">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">2013chappys</data>
-    </node>
-    <node id="#day1">
-      <data key="d0">0</data>
-      <data key="d1">9</data>
-      <data key="d2">day1</data>
-    </node>
-    <node id="@nedbat">
-      <data key="d0">1</data>
-      <data key="d1">109</data>
-      <data key="d2">nedbat</data>
-    </node>
-    <node id="#tip">
-      <data key="d0">0</data>
-      <data key="d1">37</data>
-      <data key="d2">tip</data>
-    </node>
-    <node id="@kantrn">
-      <data key="d0">1</data>
-      <data key="d1">71</data>
-      <data key="d2">kantrn</data>
-    </node>
-    <node id="#diversity">
-      <data key="d0">0</data>
-      <data key="d1">11</data>
-      <data key="d2">diversity</data>
-    </node>
-    <node id="@daniellindsley">
-      <data key="d0">1</data>
-      <data key="d1">51</data>
-      <data key="d2">daniellindsley</data>
-    </node>
-    <node id="#nailsdid">
-      <data key="d0">0</data>
-      <data key="d1">57</data>
-      <data key="d2">nailsdid</data>
-    </node>
-    <node id="#tolot">
-      <data key="d0">0</data>
-      <data key="d1">3</data>
-      <data key="d2">tolot</data>
-    </node>
-    <node id="#gotanawesomeseat">
-      <data key="d0">0</data>
-      <data key="d1">9</data>
-      <data key="d2">gotanawesomeseat</data>
-    </node>
-    <node id="#picrust">
-      <data key="d0">0</data>
-      <data key="d1">11</data>
-      <data key="d2">picrust</data>
-    </node>
-    <node id="#jointheflock">
-      <data key="d0">0</data>
-      <data key="d1">25</data>
-      <data key="d2">jointheflock</data>
-    </node>
-    <node id="@andrewfhart">
-      <data key="d0">1</data>
-      <data key="d1">109</data>
-      <data key="d2">andrewfhart</data>
-    </node>
-    <node id="#grandesmentiras">
-      <data key="d0">0</data>
-      <data key="d1">9</data>
-      <data key="d2">grandesmentiras</data>
-    </node>
-    <node id="@newrelic">
-      <data key="d0">1</data>
-      <data key="d1">143</data>
-      <data key="d2">newrelic</data>
-    </node>
-    <node id="#divebar">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">divebar</data>
-    </node>
-    <node id="#sunday">
-      <data key="d0">0</data>
-      <data key="d1">11</data>
-      <data key="d2">sunday</data>
-    </node>
-    <node id="#nailart">
-      <data key="d0">0</data>
-      <data key="d1">55</data>
-      <data key="d2">nailart</data>
-    </node>
-    <node id="@estherbester">
-      <data key="d0">1</data>
-      <data key="d1">65</data>
-      <data key="d2">estherbester</data>
-    </node>
-    <node id="#fpga">
-      <data key="d0">0</data>
-      <data key="d1">19</data>
-      <data key="d2">fpga</data>
-    </node>
-    <node id="#ugh">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">ugh</data>
-    </node>
-    <node id="#wishyouwerehere">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">wishyouwerehere</data>
-    </node>
-    <node id="#polish">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">polish</data>
-    </node>
-    <node id="#dinner">
-      <data key="d0">0</data>
-      <data key="d1">9</data>
-      <data key="d2">dinner</data>
-    </node>
-    <node id="#pyfes">
-      <data key="d0">0</data>
-      <data key="d1">9</data>
-      <data key="d2">pyfes</data>
-    </node>
-    <node id="#ladycoders">
-      <data key="d0">0</data>
-      <data key="d1">69</data>
-      <data key="d2">ladycoders</data>
-    </node>
-    <node id="#hackers">
-      <data key="d0">0</data>
+    <node id="jack dorsey">
+      <data key="d0">2</data>
       <data key="d1">13</data>
-      <data key="d2">hackers</data>
+      <data key="d2">jack dorsey</data>
     </node>
     <node id="#radar">
       <data key="d0">0</data>
       <data key="d1">9</data>
       <data key="d2">radar</data>
     </node>
+    <node id="@nedbat">
+      <data key="d0">1</data>
+      <data key="d1">119</data>
+      <data key="d2">nedbat</data>
+    </node>
+    <node id="@newrelic">
+      <data key="d0">1</data>
+      <data key="d1">147</data>
+      <data key="d2">newrelic</data>
+    </node>
+    <node id="#tolot">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">tolot</data>
+    </node>
+    <node id="#f4f">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">f4f</data>
+    </node>
+    <node id="@estherbester">
+      <data key="d0">1</data>
+      <data key="d1">77</data>
+      <data key="d2">estherbester</data>
+    </node>
+    <node id="@holdenweb">
+      <data key="d0">1</data>
+      <data key="d1">61</data>
+      <data key="d2">holdenweb</data>
+    </node>
+    <node id="@chrismattmann">
+      <data key="d0">1</data>
+      <data key="d1">51</data>
+      <data key="d2">chrismattmann</data>
+    </node>
+    <node id="louis delmas">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">louis delmas</data>
+    </node>
+    <node id="new event">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">new event</data>
+    </node>
     <node id="@ladycoders">
       <data key="d0">1</data>
-      <data key="d1">63</data>
+      <data key="d1">73</data>
       <data key="d2">ladycoders</data>
-    </node>
-    <node id="#pyladies">
-      <data key="d0">0</data>
-      <data key="d1">169</data>
-      <data key="d2">pyladies</data>
     </node>
     <node id="#vmware">
       <data key="d0">0</data>
       <data key="d1">7</data>
       <data key="d2">vmware</data>
     </node>
-    <node id="#yep">
-      <data key="d0">0</data>
+    <node id="swift api">
+      <data key="d0">2</data>
       <data key="d1">17</data>
-      <data key="d2">yep</data>
+      <data key="d2">swift api</data>
     </node>
-    <node id="@claytron">
-      <data key="d0">1</data>
-      <data key="d1">51</data>
-      <data key="d2">claytron</data>
-    </node>
-    <node id="#startny">
-      <data key="d0">0</data>
-      <data key="d1">23</data>
-      <data key="d2">startny</data>
-    </node>
-    <node id="#hashtagoverload">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">hashtagoverload</data>
-    </node>
-    <node id="#community">
-      <data key="d0">0</data>
-      <data key="d1">21</data>
-      <data key="d2">community</data>
-    </node>
-    <node id="#dotcloud">
-      <data key="d0">0</data>
+    <node id="san francisco">
+      <data key="d0">2</data>
       <data key="d1">31</data>
-      <data key="d2">dotcloud</data>
-    </node>
-    <node id="@davidblewett">
-      <data key="d0">1</data>
-      <data key="d1">51</data>
-      <data key="d2">davidblewett</data>
-    </node>
-    <node id="@kennethlove">
-      <data key="d0">1</data>
-      <data key="d1">67</data>
-      <data key="d2">kennethlove</data>
-    </node>
-    <node id="#rapidsms">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">rapidsms</data>
-    </node>
-    <node id="#rnd">
-      <data key="d0">0</data>
-      <data key="d1">17</data>
-      <data key="d2">rnd</data>
+      <data key="d2">san francisco</data>
     </node>
     <node id="#kernel">
       <data key="d0">0</data>
       <data key="d1">5</data>
       <data key="d2">kernel</data>
-    </node>
-    <node id="@bshaurette">
-      <data key="d0">1</data>
-      <data key="d1">59</data>
-      <data key="d2">bshaurette</data>
-    </node>
-    <node id="#wxpython">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">wxpython</data>
-    </node>
-    <node id="#rackspace">
-      <data key="d0">0</data>
-      <data key="d1">9</data>
-      <data key="d2">rackspace</data>
-    </node>
-    <node id="#keynote">
-      <data key="d0">0</data>
-      <data key="d1">31</data>
-      <data key="d2">keynote</data>
     </node>
     <node id="#djangoproject">
       <data key="d0">0</data>
@@ -671,218 +271,118 @@
     </node>
     <node id="@styleseat">
       <data key="d0">1</data>
-      <data key="d1">113</data>
+      <data key="d1">117</data>
       <data key="d2">styleseat</data>
-    </node>
-    <node id="#science">
-      <data key="d0">0</data>
-      <data key="d1">19</data>
-      <data key="d2">science</data>
-    </node>
-    <node id="#pretty">
-      <data key="d0">0</data>
-      <data key="d1">3</data>
-      <data key="d2">pretty</data>
     </node>
     <node id="#ftw">
       <data key="d0">0</data>
       <data key="d1">9</data>
       <data key="d2">ftw</data>
     </node>
-    <node id="#railscastmyass">
+    <node id="#education">
       <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">railscastmyass</data>
-    </node>
-    <node id="@roguelynn">
-      <data key="d0">1</data>
-      <data key="d1">209</data>
-      <data key="d2">roguelynn</data>
-    </node>
-    <node id="#news">
-      <data key="d0">0</data>
-      <data key="d1">17</data>
-      <data key="d2">news</data>
-    </node>
-    <node id="#hpcloud">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">hpcloud</data>
+      <data key="d1">27</data>
+      <data key="d2">education</data>
     </node>
     <node id="@loggly">
       <data key="d0">1</data>
-      <data key="d1">335</data>
+      <data key="d1">351</data>
       <data key="d2">loggly</data>
+    </node>
+    <node id="feminist hacker lounge">
+      <data key="d0">2</data>
+      <data key="d1">13</data>
+      <data key="d2">feminist hacker lounge</data>
     </node>
     <node id="#pixiedust">
       <data key="d0">0</data>
       <data key="d1">17</data>
       <data key="d2">pixiedust</data>
     </node>
-    <node id="@ctitusbrown">
-      <data key="d0">1</data>
-      <data key="d1">95</data>
-      <data key="d2">ctitusbrown</data>
-    </node>
-    <node id="#schwag">
+    <node id="#kivy">
       <data key="d0">0</data>
-      <data key="d1">9</data>
-      <data key="d2">schwag</data>
+      <data key="d1">29</data>
+      <data key="d2">kivy</data>
     </node>
-    <node id="#bottle">
-      <data key="d0">0</data>
-      <data key="d1">19</data>
-      <data key="d2">bottle</data>
-    </node>
-    <node id="#buzzfeedbusiness">
+    <node id="#hieroglyph">
       <data key="d0">0</data>
       <data key="d1">7</data>
-      <data key="d2">buzzfeedbusiness</data>
+      <data key="d2">hieroglyph</data>
     </node>
-    <node id="@pyladies">
-      <data key="d0">1</data>
-      <data key="d1">325</data>
-      <data key="d2">pyladies</data>
+    <node id="of pie-con">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">of pie-con</data>
     </node>
-    <node id="#dimepiece">
+    <node id="#motiviation">
       <data key="d0">0</data>
-      <data key="d1">39</data>
-      <data key="d2">dimepiece</data>
+      <data key="d1">5</data>
+      <data key="d2">motiviation</data>
     </node>
-    <node id="#jobfair">
+    <node id="new modularity">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">new modularity</data>
+    </node>
+    <node id="#safe">
       <data key="d0">0</data>
       <data key="d1">11</data>
-      <data key="d2">jobfair</data>
+      <data key="d2">safe</data>
     </node>
     <node id="#vision">
       <data key="d0">0</data>
-      <data key="d1">13</data>
+      <data key="d1">15</data>
       <data key="d2">vision</data>
     </node>
     <node id="#pypgday">
       <data key="d0">0</data>
-      <data key="d1">65</data>
+      <data key="d1">81</data>
       <data key="d2">pypgday</data>
-    </node>
-    <node id="#fun">
-      <data key="d0">0</data>
-      <data key="d1">19</data>
-      <data key="d2">fun</data>
-    </node>
-    <node id="#eda">
-      <data key="d0">0</data>
-      <data key="d1">19</data>
-      <data key="d2">eda</data>
-    </node>
-    <node id="#openshift">
-      <data key="d0">0</data>
-      <data key="d1">13</data>
-      <data key="d2">openshift</data>
-    </node>
-    <node id="#pep3156">
-      <data key="d0">0</data>
-      <data key="d1">11</data>
-      <data key="d2">pep3156</data>
     </node>
     <node id="@selenamarie">
       <data key="d0">1</data>
-      <data key="d1">73</data>
+      <data key="d1">79</data>
       <data key="d2">selenamarie</data>
-    </node>
-    <node id="#celery">
-      <data key="d0">0</data>
-      <data key="d1">11</data>
-      <data key="d2">celery</data>
-    </node>
-    <node id="#pypgday2013">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">pypgday2013</data>
-    </node>
-    <node id="#taurus">
-      <data key="d0">0</data>
-      <data key="d1">17</data>
-      <data key="d2">taurus</data>
-    </node>
-    <node id="#noreally">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">noreally</data>
     </node>
     <node id="#nerdy">
       <data key="d0">0</data>
       <data key="d1">5</data>
       <data key="d2">nerdy</data>
     </node>
-    <node id="#flossgloss">
-      <data key="d0">0</data>
-      <data key="d1">39</data>
-      <data key="d2">flossgloss</data>
+    <node id="mongodb office hours">
+      <data key="d0">2</data>
+      <data key="d1">37</data>
+      <data key="d2">mongodb office hours</data>
     </node>
-    <node id="#testing">
-      <data key="d0">0</data>
-      <data key="d1">23</data>
-      <data key="d2">testing</data>
-    </node>
-    <node id="@openshift">
-      <data key="d0">1</data>
-      <data key="d1">67</data>
-      <data key="d2">openshift</data>
-    </node>
-    <node id="#arduino">
-      <data key="d0">0</data>
-      <data key="d1">31</data>
-      <data key="d2">arduino</data>
+    <node id="red hat">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">red hat</data>
     </node>
     <node id="#pedroscantina">
       <data key="d0">0</data>
       <data key="d1">9</data>
       <data key="d2">pedroscantina</data>
     </node>
-    <node id="#pwds">
+    <node id="#santaclara">
       <data key="d0">0</data>
-      <data key="d1">13</data>
-      <data key="d2">pwds</data>
-    </node>
-    <node id="@rackspace">
-      <data key="d0">1</data>
-      <data key="d1">135</data>
-      <data key="d2">rackspace</data>
-    </node>
-    <node id="#pyconjp">
-      <data key="d0">0</data>
-      <data key="d1">3</data>
-      <data key="d2">pyconjp</data>
+      <data key="d1">23</data>
+      <data key="d2">santaclara</data>
     </node>
     <node id="#pyramid">
       <data key="d0">0</data>
-      <data key="d1">67</data>
+      <data key="d1">77</data>
       <data key="d2">pyramid</data>
-    </node>
-    <node id="#allthesingleladies">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">allthesingleladies</data>
-    </node>
-    <node id="@hynek">
-      <data key="d0">1</data>
-      <data key="d1">59</data>
-      <data key="d2">hynek</data>
     </node>
     <node id="#raspberrypis">
       <data key="d0">0</data>
       <data key="d1">5</data>
       <data key="d2">raspberrypis</data>
     </node>
-    <node id="#kivy">
-      <data key="d0">0</data>
-      <data key="d1">23</data>
-      <data key="d2">kivy</data>
-    </node>
-    <node id="#eventbrite">
+    <node id="#youknowyoureatpyconwhen">
       <data key="d0">0</data>
       <data key="d1">9</data>
-      <data key="d2">eventbrite</data>
+      <data key="d2">youknowyoureatpyconwhen</data>
     </node>
     <node id="#vegas">
       <data key="d0">0</data>
@@ -894,64 +394,14 @@
       <data key="d1">15</data>
       <data key="d2">birdsofafeather</data>
     </node>
-    <node id="#rst">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">rst</data>
-    </node>
-    <node id="#youknowyoureatpyconwhen">
-      <data key="d0">0</data>
-      <data key="d1">9</data>
-      <data key="d2">youknowyoureatpyconwhen</data>
-    </node>
-    <node id="@beachgirl">
-      <data key="d0">1</data>
-      <data key="d1">59</data>
-      <data key="d2">beachgirl</data>
-    </node>
     <node id="#rasberrypi">
       <data key="d0">0</data>
-      <data key="d1">17</data>
+      <data key="d1">19</data>
       <data key="d2">rasberrypi</data>
-    </node>
-    <node id="@pramirez624">
-      <data key="d0">1</data>
-      <data key="d1">113</data>
-      <data key="d2">pramirez624</data>
-    </node>
-    <node id="#safeway">
-      <data key="d0">0</data>
-      <data key="d1">11</data>
-      <data key="d2">safeway</data>
-    </node>
-    <node id="@adriarichards">
-      <data key="d0">1</data>
-      <data key="d1">59</data>
-      <data key="d2">adriarichards</data>
-    </node>
-    <node id="#sphinx">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">sphinx</data>
-    </node>
-    <node id="@jessicamckellar">
-      <data key="d0">1</data>
-      <data key="d1">67</data>
-      <data key="d2">jessicamckellar</data>
-    </node>
-    <node id="@stenoknight">
-      <data key="d0">1</data>
-      <data key="d1">59</data>
-      <data key="d2">stenoknight</data>
-    </node>
-    <node id="#cardsagainsthumanity">
-      <data key="d0">0</data>
-      <data key="d1">13</data>
-      <data key="d2">cardsagainsthumanity</data>
     </node>
     <node id="#getcomfy">
       <data key="d0">0</data>
-      <data key="d1">9</data>
+      <data key="d1">17</data>
       <data key="d2">getcomfy</data>
     </node>
     <node id="#healthit">
@@ -959,84 +409,514 @@
       <data key="d1">13</data>
       <data key="d2">healthit</data>
     </node>
-    <node id="#pdx">
+    <node id="raspberry pi">
+      <data key="d0">2</data>
+      <data key="d1">357</data>
+      <data key="d2">raspberry pi</data>
+    </node>
+    <node id="#robots">
+      <data key="d0">0</data>
+      <data key="d1">19</data>
+      <data key="d2">robots</data>
+    </node>
+    <node id="#fpga">
+      <data key="d0">0</data>
+      <data key="d1">19</data>
+      <data key="d2">fpga</data>
+    </node>
+    <node id="#364plus1">
+      <data key="d0">0</data>
+      <data key="d1">13</data>
+      <data key="d2">364plus1</data>
+    </node>
+    <node id="#darts">
+      <data key="d0">0</data>
+      <data key="d1">15</data>
+      <data key="d2">darts</data>
+    </node>
+    <node id="@garybernhardt">
+      <data key="d0">1</data>
+      <data key="d1">107</data>
+      <data key="d2">garybernhardt</data>
+    </node>
+    <node id="#tutoring">
+      <data key="d0">0</data>
+      <data key="d1">15</data>
+      <data key="d2">tutoring</data>
+    </node>
+    <node id="#android">
+      <data key="d0">0</data>
+      <data key="d1">39</data>
+      <data key="d2">android</data>
+    </node>
+    <node id="#teamawesome">
+      <data key="d0">0</data>
+      <data key="d1">77</data>
+      <data key="d2">teamawesome</data>
+    </node>
+    <node id="the pycon">
+      <data key="d0">2</data>
+      <data key="d1">33</data>
+      <data key="d2">the pycon</data>
+    </node>
+    <node id="swag monster">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">swag monster</data>
+    </node>
+    <node id="#vim">
       <data key="d0">0</data>
       <data key="d1">5</data>
-      <data key="d2">pdx</data>
+      <data key="d2">vim</data>
+    </node>
+    <node id="@palendae">
+      <data key="d0">1</data>
+      <data key="d1">55</data>
+      <data key="d2">palendae</data>
+    </node>
+    <node id="#mongodb">
+      <data key="d0">0</data>
+      <data key="d1">41</data>
+      <data key="d2">mongodb</data>
+    </node>
+    <node id="#dives">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+      <data key="d2">dives</data>
+    </node>
+    <node id="@caktusgroup">
+      <data key="d0">1</data>
+      <data key="d1">63</data>
+      <data key="d2">caktusgroup</data>
+    </node>
+    <node id="#openaccess">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+      <data key="d2">openaccess</data>
+    </node>
+    <node id="#10thingsigetalot">
+      <data key="d0">0</data>
+      <data key="d1">27</data>
+      <data key="d2">10thingsigetalot</data>
     </node>
     <node id="#hot">
       <data key="d0">0</data>
       <data key="d1">27</data>
       <data key="d2">hot</data>
     </node>
-    <node id="#robots">
+    <node id="#aws">
+      <data key="d0">0</data>
+      <data key="d1">15</data>
+      <data key="d2">aws</data>
+    </node>
+    <node id="#shootforthestars">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">shootforthestars</data>
+    </node>
+    <node id="david beazley">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">david beazley</data>
+    </node>
+    <node id="raspberry pi’s eben upton">
+      <data key="d0">2</data>
+      <data key="d1">27</data>
+      <data key="d2">raspberry pi’s eben upton</data>
+    </node>
+    <node id="@thepsf">
+      <data key="d0">1</data>
+      <data key="d1">107</data>
+      <data key="d2">thepsf</data>
+    </node>
+    <node id="@geodawg">
+      <data key="d0">1</data>
+      <data key="d1">123</data>
+      <data key="d2">geodawg</data>
+    </node>
+    <node id="#zipsgameday">
+      <data key="d0">0</data>
+      <data key="d1">13</data>
+      <data key="d2">zipsgameday</data>
+    </node>
+    <node id="@jointheflock">
+      <data key="d0">1</data>
+      <data key="d1">981</data>
+      <data key="d2">jointheflock</data>
+    </node>
+    <node id="raspberry io">
+      <data key="d0">2</data>
+      <data key="d1">35</data>
+      <data key="d2">raspberry io</data>
+    </node>
+    <node id="#unicode">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">unicode</data>
+    </node>
+    <node id="@santaclaraca">
+      <data key="d0">1</data>
+      <data key="d1">73</data>
+      <data key="d2">santaclaraca</data>
+    </node>
+    <node id="#herpderp">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">herpderp</data>
+    </node>
+    <node id="#win">
+      <data key="d0">0</data>
+      <data key="d1">23</data>
+      <data key="d2">win</data>
+    </node>
+    <node id="#simplecv">
+      <data key="d0">0</data>
+      <data key="d1">37</data>
+      <data key="d2">simplecv</data>
+    </node>
+    <node id="@walterbender">
+      <data key="d0">1</data>
+      <data key="d1">53</data>
+      <data key="d2">walterbender</data>
+    </node>
+    <node id="geeks are hot">
+      <data key="d0">2</data>
+      <data key="d1">37</data>
+      <data key="d2">geeks are hot</data>
+    </node>
+    <node id="raspberry pis">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">raspberry pis</data>
+    </node>
+    <node id="awesome big data algorithms">
+      <data key="d0">2</data>
+      <data key="d1">17</data>
+      <data key="d2">awesome big data algorithms</data>
+    </node>
+    <node id="@kennethreitz">
+      <data key="d0">1</data>
+      <data key="d1">85</data>
+      <data key="d2">kennethreitz</data>
+    </node>
+    <node id="and you">
+      <data key="d0">2</data>
+      <data key="d1">27</data>
+      <data key="d2">and you</data>
+    </node>
+    <node id="#python_decorators">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+      <data key="d2">python_decorators</data>
+    </node>
+    <node id="what's not">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">what's not</data>
+    </node>
+    <node id="#enjoy">
+      <data key="d0">0</data>
+      <data key="d1">13</data>
+      <data key="d2">enjoy</data>
+    </node>
+    <node id="#pisces">
       <data key="d0">0</data>
       <data key="d1">17</data>
-      <data key="d2">robots</data>
+      <data key="d2">pisces</data>
+    </node>
+    <node id="#tralalalalaaa">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+      <data key="d2">tralalalalaaa</data>
+    </node>
+    <node id="keyboard cat">
+      <data key="d0">2</data>
+      <data key="d1">17</data>
+      <data key="d2">keyboard cat</data>
+    </node>
+    <node id="#today">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+      <data key="d2">today</data>
+    </node>
+    <node id="pycon officially starts tomorrow">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">pycon officially starts tomorrow</data>
+    </node>
+    <node id="@saucelabs">
+      <data key="d0">1</data>
+      <data key="d1">111</data>
+      <data key="d2">saucelabs</data>
+    </node>
+    <node id="new coders">
+      <data key="d0">2</data>
+      <data key="d1">21</data>
+      <data key="d2">new coders</data>
+    </node>
+    <node id="everybody gets a raspberry pi">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">everybody gets a raspberry pi</data>
+    </node>
+    <node id="#tip">
+      <data key="d0">0</data>
+      <data key="d1">39</data>
+      <data key="d2">tip</data>
+    </node>
+    <node id="#nailsdid">
+      <data key="d0">0</data>
+      <data key="d1">57</data>
+      <data key="d2">nailsdid</data>
+    </node>
+    <node id="young coder">
+      <data key="d0">2</data>
+      <data key="d1">23</data>
+      <data key="d2">young coder</data>
+    </node>
+    <node id="#day1">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+      <data key="d2">day1</data>
+    </node>
+    <node id="#polish">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">polish</data>
+    </node>
+    <node id="santa monica">
+      <data key="d0">2</data>
+      <data key="d1">23</data>
+      <data key="d2">santa monica</data>
+    </node>
+    <node id="charity fun run">
+      <data key="d0">2</data>
+      <data key="d1">31</data>
+      <data key="d2">charity fun run</data>
+    </node>
+    <node id="#startny">
+      <data key="d0">0</data>
+      <data key="d1">23</data>
+      <data key="d2">startny</data>
+    </node>
+    <node id="#hashtagoverload">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">hashtagoverload</data>
+    </node>
+    <node id="#community">
+      <data key="d0">0</data>
+      <data key="d1">23</data>
+      <data key="d2">community</data>
+    </node>
+    <node id="@kennethlove">
+      <data key="d0">1</data>
+      <data key="d1">67</data>
+      <data key="d2">kennethlove</data>
+    </node>
+    <node id="#rackspace">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+      <data key="d2">rackspace</data>
+    </node>
+    <node id="ada initiative">
+      <data key="d0">2</data>
+      <data key="d1">17</data>
+      <data key="d2">ada initiative</data>
+    </node>
+    <node id="get it">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">get it</data>
+    </node>
+    <node id="@roguelynn">
+      <data key="d0">1</data>
+      <data key="d1">225</data>
+      <data key="d2">roguelynn</data>
+    </node>
+    <node id="#plone">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+      <data key="d2">plone</data>
+    </node>
+    <node id="the end">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">the end</data>
+    </node>
+    <node id="#hpcloud">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">hpcloud</data>
+    </node>
+    <node id="patrick's day">
+      <data key="d0">2</data>
+      <data key="d1">13</data>
+      <data key="d2">patrick's day</data>
+    </node>
+    <node id="@ctitusbrown">
+      <data key="d0">1</data>
+      <data key="d1">107</data>
+      <data key="d2">ctitusbrown</data>
+    </node>
+    <node id="@pyladies">
+      <data key="d0">1</data>
+      <data key="d1">351</data>
+      <data key="d2">pyladies</data>
+    </node>
+    <node id="pycon canada">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">pycon canada</data>
+    </node>
+    <node id="#safeway">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+      <data key="d2">safeway</data>
+    </node>
+    <node id="#eda">
+      <data key="d0">0</data>
+      <data key="d1">19</data>
+      <data key="d2">eda</data>
+    </node>
+    <node id="kate heddleston's">
+      <data key="d0">2</data>
+      <data key="d1">19</data>
+      <data key="d2">kate heddleston's</data>
+    </node>
+    <node id="you should write&quot;">
+      <data key="d0">2</data>
+      <data key="d1">13</data>
+      <data key="d2">you should write"</data>
+    </node>
+    <node id="are you guys ready to rummbbbleee">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">are you guys ready to rummbbbleee</data>
+    </node>
+    <node id="#flossgloss">
+      <data key="d0">0</data>
+      <data key="d1">39</data>
+      <data key="d2">flossgloss</data>
+    </node>
+    <node id="#testing">
+      <data key="d0">0</data>
+      <data key="d1">23</data>
+      <data key="d2">testing</data>
+    </node>
+    <node id="startup row">
+      <data key="d0">2</data>
+      <data key="d1">29</data>
+      <data key="d2">startup row</data>
+    </node>
+    <node id="#allthesingleladies">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+      <data key="d2">allthesingleladies</data>
+    </node>
+    <node id="software development lead">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">software development lead</data>
+    </node>
+    <node id="#eventbrite">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+      <data key="d2">eventbrite</data>
+    </node>
+    <node id="watching eben upton keynote">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">watching eben upton keynote</data>
+    </node>
+    <node id="sf june">
+      <data key="d0">2</data>
+      <data key="d1">27</data>
+      <data key="d2">sf june</data>
+    </node>
+    <node id="ha ha ha get it">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">ha ha ha get it</data>
+    </node>
+    <node id="@brandon_rhodes">
+      <data key="d0">1</data>
+      <data key="d1">79</data>
+      <data key="d2">brandon_rhodes</data>
+    </node>
+    <node id="@pramirez624">
+      <data key="d0">1</data>
+      <data key="d1">115</data>
+      <data key="d2">pramirez624</data>
+    </node>
+    <node id="@adriarichards">
+      <data key="d0">1</data>
+      <data key="d1">69</data>
+      <data key="d2">adriarichards</data>
+    </node>
+    <node id="#dotcloud">
+      <data key="d0">0</data>
+      <data key="d1">31</data>
+      <data key="d2">dotcloud</data>
+    </node>
+    <node id="#cardsagainsthumanity">
+      <data key="d0">0</data>
+      <data key="d1">13</data>
+      <data key="d2">cardsagainsthumanity</data>
+    </node>
+    <node id="security threat modelling">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">security threat modelling</data>
+    </node>
+    <node id="#bigdata">
+      <data key="d0">0</data>
+      <data key="d1">35</data>
+      <data key="d2">bigdata</data>
     </node>
     <node id="@gabriellehp">
       <data key="d0">1</data>
-      <data key="d1">51</data>
+      <data key="d1">53</data>
       <data key="d2">gabriellehp</data>
     </node>
-    <node id="#364plus1">
+    <node id="#hackerhive">
       <data key="d0">0</data>
-      <data key="d1">11</data>
-      <data key="d2">364plus1</data>
-    </node>
-    <node id="#packaging">
-      <data key="d0">0</data>
-      <data key="d1">13</data>
-      <data key="d2">packaging</data>
+      <data key="d1">7</data>
+      <data key="d2">hackerhive</data>
     </node>
     <node id="@bluebox">
       <data key="d0">1</data>
-      <data key="d1">103</data>
+      <data key="d1">105</data>
       <data key="d2">bluebox</data>
     </node>
     <node id="@kellyshalk">
       <data key="d0">1</data>
-      <data key="d1">83</data>
+      <data key="d1">89</data>
       <data key="d2">kellyshalk</data>
     </node>
     <node id="@twitter">
       <data key="d0">1</data>
-      <data key="d1">67</data>
+      <data key="d1">71</data>
       <data key="d2">twitter</data>
     </node>
-    <node id="@jessenoller">
-      <data key="d0">1</data>
-      <data key="d1">311</data>
-      <data key="d2">jessenoller</data>
-    </node>
-    <node id="#ocra">
-      <data key="d0">0</data>
-      <data key="d1">17</data>
-      <data key="d2">ocra</data>
-    </node>
-    <node id="#darts">
-      <data key="d0">0</data>
-      <data key="d1">13</data>
-      <data key="d2">darts</data>
-    </node>
-    <node id="@garybernhardt">
-      <data key="d0">1</data>
-      <data key="d1">93</data>
-      <data key="d2">garybernhardt</data>
+    <node id="nick coghlan">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">nick coghlan</data>
     </node>
     <node id="#rpi">
       <data key="d0">0</data>
-      <data key="d1">35</data>
+      <data key="d1">37</data>
       <data key="d2">rpi</data>
     </node>
-    <node id="#django">
-      <data key="d0">0</data>
-      <data key="d1">149</data>
-      <data key="d2">django</data>
+    <node id="python web frameworks compared">
+      <data key="d0">2</data>
+      <data key="d1">23</data>
+      <data key="d2">python web frameworks compared</data>
     </node>
     <node id="#flask">
       <data key="d0">0</data>
-      <data key="d1">59</data>
+      <data key="d1">67</data>
       <data key="d2">flask</data>
     </node>
     <node id="#tulip">
@@ -1049,25 +929,10 @@
       <data key="d1">7</data>
       <data key="d2">pylonsproject</data>
     </node>
-    <node id="#tutoring">
+    <node id="#hulu">
       <data key="d0">0</data>
-      <data key="d1">15</data>
-      <data key="d2">tutoring</data>
-    </node>
-    <node id="#adainitiative">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">adainitiative</data>
-    </node>
-    <node id="#android">
-      <data key="d0">0</data>
-      <data key="d1">35</data>
-      <data key="d2">android</data>
-    </node>
-    <node id="#ballroom">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">ballroom</data>
+      <data key="d1">27</data>
+      <data key="d2">hulu</data>
     </node>
     <node id="#poker">
       <data key="d0">0</data>
@@ -1076,13 +941,8 @@
     </node>
     <node id="@geography76">
       <data key="d0">1</data>
-      <data key="d1">111</data>
+      <data key="d1">131</data>
       <data key="d2">geography76</data>
-    </node>
-    <node id="@raymondh">
-      <data key="d0">1</data>
-      <data key="d1">179</data>
-      <data key="d2">raymondh</data>
     </node>
     <node id="#hashtags">
       <data key="d0">0</data>
@@ -1091,116 +951,861 @@
     </node>
     <node id="#raspberry">
       <data key="d0">0</data>
-      <data key="d1">13</data>
+      <data key="d1">15</data>
       <data key="d2">raspberry</data>
-    </node>
-    <node id="#hieroglyph">
-      <data key="d0">0</data>
-      <data key="d1">7</data>
-      <data key="d2">hieroglyph</data>
-    </node>
-    <node id="#vim">
-      <data key="d0">0</data>
-      <data key="d1">5</data>
-      <data key="d2">vim</data>
     </node>
     <node id="@jacobian">
       <data key="d0">1</data>
-      <data key="d1">53</data>
+      <data key="d1">59</data>
       <data key="d2">jacobian</data>
-    </node>
-    <node id="#myhdl">
-      <data key="d0">0</data>
-      <data key="d1">19</data>
-      <data key="d2">myhdl</data>
     </node>
     <node id="#awesome">
       <data key="d0">0</data>
-      <data key="d1">95</data>
+      <data key="d1">105</data>
       <data key="d2">awesome</data>
+    </node>
+    <node id="@twisitor">
+      <data key="d0">1</data>
+      <data key="d1">51</data>
+      <data key="d2">twisitor</data>
+    </node>
+    <node id="@solanolabs">
+      <data key="d0">1</data>
+      <data key="d1">109</data>
+      <data key="d2">solanolabs</data>
+    </node>
+    <node id="#ipython">
+      <data key="d0">0</data>
+      <data key="d1">101</data>
+      <data key="d2">ipython</data>
+    </node>
+    <node id="#pyconau">
+      <data key="d0">0</data>
+      <data key="d1">21</data>
+      <data key="d2">pyconau</data>
+    </node>
+    <node id="#yay">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+      <data key="d2">yay</data>
+    </node>
+    <node id="#gemini">
+      <data key="d0">0</data>
+      <data key="d1">17</data>
+      <data key="d2">gemini</data>
+    </node>
+    <node id="the future">
+      <data key="d0">2</data>
+      <data key="d1">21</data>
+      <data key="d2">the future</data>
+    </node>
+    <node id="#maker">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">maker</data>
+    </node>
+    <node id="you code">
+      <data key="d0">2</data>
+      <data key="d1">13</data>
+      <data key="d2">you code</data>
+    </node>
+    <node id="#raspberrypi">
+      <data key="d0">0</data>
+      <data key="d1">333</data>
+      <data key="d2">raspberrypi</data>
+    </node>
+    <node id="object inheritance">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">object inheritance</data>
+    </node>
+    <node id="@jackiekazil">
+      <data key="d0">1</data>
+      <data key="d1">59</data>
+      <data key="d2">jackiekazil</data>
+    </node>
+    <node id="@calvinhp">
+      <data key="d0">1</data>
+      <data key="d1">55</data>
+      <data key="d2">calvinhp</data>
+    </node>
+    <node id="@adainitiative">
+      <data key="d0">1</data>
+      <data key="d1">169</data>
+      <data key="d2">adainitiative</data>
+    </node>
+    <node id="python ipsum">
+      <data key="d0">2</data>
+      <data key="d1">19</data>
+      <data key="d2">python ipsum</data>
+    </node>
+    <node id="#pyvegans">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+      <data key="d2">pyvegans</data>
+    </node>
+    <node id="tip bof">
+      <data key="d0">2</data>
+      <data key="d1">99</data>
+      <data key="d2">tip bof</data>
+    </node>
+    <node id="#pandas">
+      <data key="d0">0</data>
+      <data key="d1">45</data>
+      <data key="d2">pandas</data>
+    </node>
+    <node id="#paas">
+      <data key="d0">0</data>
+      <data key="d1">59</data>
+      <data key="d2">paas</data>
+    </node>
+    <node id="@dirnonline">
+      <data key="d0">1</data>
+      <data key="d1">63</data>
+      <data key="d2">dirnonline</data>
+    </node>
+    <node id="@sigep311">
+      <data key="d0">1</data>
+      <data key="d1">107</data>
+      <data key="d2">sigep311</data>
+    </node>
+    <node id="#southwest">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">southwest</data>
+    </node>
+    <node id="jessica mckellar">
+      <data key="d0">2</data>
+      <data key="d1">13</data>
+      <data key="d2">jessica mckellar</data>
+    </node>
+    <node id="#docker">
+      <data key="d0">0</data>
+      <data key="d1">19</data>
+      <data key="d2">docker</data>
+    </node>
+    <node id="pi day">
+      <data key="d0">2</data>
+      <data key="d1">45</data>
+      <data key="d2">pi day</data>
+    </node>
+    <node id="get loud">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">get loud</data>
+    </node>
+    <node id="#startuplife">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+      <data key="d2">startuplife</data>
+    </node>
+    <node id="python cookbook">
+      <data key="d0">2</data>
+      <data key="d1">25</data>
+      <data key="d2">python cookbook</data>
+    </node>
+    <node id="@daniellindsley">
+      <data key="d0">1</data>
+      <data key="d1">55</data>
+      <data key="d2">daniellindsley</data>
+    </node>
+    <node id="at pycon">
+      <data key="d0">2</data>
+      <data key="d1">13</data>
+      <data key="d2">at pycon</data>
+    </node>
+    <node id="home automation">
+      <data key="d0">2</data>
+      <data key="d1">23</data>
+      <data key="d2">home automation</data>
+    </node>
+    <node id="#pyladies">
+      <data key="d0">0</data>
+      <data key="d1">193</data>
+      <data key="d2">pyladies</data>
+    </node>
+    <node id="@andrewfhart">
+      <data key="d0">1</data>
+      <data key="d1">111</data>
+      <data key="d2">andrewfhart</data>
+    </node>
+    <node id="#grandesmentiras">
+      <data key="d0">0</data>
+      <data key="d1">13</data>
+      <data key="d2">grandesmentiras</data>
+    </node>
+    <node id="#fossopw">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">fossopw</data>
+    </node>
+    <node id="#nailart">
+      <data key="d0">0</data>
+      <data key="d1">57</data>
+      <data key="d2">nailart</data>
+    </node>
+    <node id="#ugh">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">ugh</data>
+    </node>
+    <node id="#dinner">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+      <data key="d2">dinner</data>
+    </node>
+    <node id="#pyworks">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">pyworks</data>
+    </node>
+    <node id="#openscience">
+      <data key="d0">0</data>
+      <data key="d1">47</data>
+      <data key="d2">openscience</data>
+    </node>
+    <node id="#jobs">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+      <data key="d2">jobs</data>
+    </node>
+    <node id="#bof">
+      <data key="d0">0</data>
+      <data key="d1">37</data>
+      <data key="d2">bof</data>
+    </node>
+    <node id="pycon us">
+      <data key="d0">2</data>
+      <data key="d1">49</data>
+      <data key="d2">pycon us</data>
+    </node>
+    <node id="#yep">
+      <data key="d0">0</data>
+      <data key="d1">17</data>
+      <data key="d2">yep</data>
+    </node>
+    <node id="performance analysis">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">performance analysis</data>
     </node>
     <node id="#decorations">
       <data key="d0">0</data>
       <data key="d1">3</data>
       <data key="d2">decorations</data>
     </node>
-    <edge source="#pyworks" target="#tulip">
+    <node id="@bshaurette">
+      <data key="d0">1</data>
+      <data key="d1">65</data>
+      <data key="d2">bshaurette</data>
+    </node>
+    <node id="#science">
+      <data key="d0">0</data>
+      <data key="d1">19</data>
+      <data key="d2">science</data>
+    </node>
+    <node id="#dbaas">
+      <data key="d0">0</data>
+      <data key="d1">19</data>
+      <data key="d2">dbaas</data>
+    </node>
+    <node id="#lax">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">lax</data>
+    </node>
+    <node id="#news">
+      <data key="d0">0</data>
+      <data key="d1">19</data>
+      <data key="d2">news</data>
+    </node>
+    <node id="#bottle">
+      <data key="d0">0</data>
+      <data key="d1">23</data>
+      <data key="d2">bottle</data>
+    </node>
+    <node id="#picrust">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+      <data key="d2">picrust</data>
+    </node>
+    <node id="#jobfair">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+      <data key="d2">jobfair</data>
+    </node>
+    <node id="@idangazit">
+      <data key="d0">1</data>
+      <data key="d1">99</data>
+      <data key="d2">idangazit</data>
+    </node>
+    <node id="#openshift">
+      <data key="d0">0</data>
+      <data key="d1">13</data>
+      <data key="d2">openshift</data>
+    </node>
+    <node id="#youshouldbehere">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+      <data key="d2">youshouldbehere</data>
+    </node>
+    <node id="#pypgday2013">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">pypgday2013</data>
+    </node>
+    <node id="@oreillymedia">
+      <data key="d0">1</data>
+      <data key="d1">61</data>
+      <data key="d2">oreillymedia</data>
+    </node>
+    <node id="#edusummit">
+      <data key="d0">0</data>
+      <data key="d1">47</data>
+      <data key="d2">edusummit</data>
+    </node>
+    <node id="@openshift">
+      <data key="d0">1</data>
+      <data key="d1">71</data>
+      <data key="d2">openshift</data>
+    </node>
+    <node id="#pwds">
+      <data key="d0">0</data>
+      <data key="d1">13</data>
+      <data key="d2">pwds</data>
+    </node>
+    <node id="@rackspace">
+      <data key="d0">1</data>
+      <data key="d1">141</data>
+      <data key="d2">rackspace</data>
+    </node>
+    <node id="@hynek">
+      <data key="d0">1</data>
+      <data key="d1">65</data>
+      <data key="d2">hynek</data>
+    </node>
+    <node id="music theory">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">music theory</data>
+    </node>
+    <node id="#rst">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">rst</data>
+    </node>
+    <node id="@beachgirl">
+      <data key="d0">1</data>
+      <data key="d1">59</data>
+      <data key="d2">beachgirl</data>
+    </node>
+    <node id="#sphinx">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">sphinx</data>
+    </node>
+    <node id="@jessicamckellar">
+      <data key="d0">1</data>
+      <data key="d1">75</data>
+      <data key="d2">jessicamckellar</data>
+    </node>
+    <node id="beefy's cabin">
+      <data key="d0">2</data>
+      <data key="d1">13</data>
+      <data key="d2">beefy's cabin</data>
+    </node>
+    <node id="ada initiative feminist hacker lounge">
+      <data key="d0">2</data>
+      <data key="d1">39</data>
+      <data key="d2">ada initiative feminist hacker lounge</data>
+    </node>
+    <node id="#pdx">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">pdx</data>
+    </node>
+    <node id="what's working">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">what's working</data>
+    </node>
+    <node id="#pretty">
+      <data key="d0">0</data>
+      <data key="d1">3</data>
+      <data key="d2">pretty</data>
+    </node>
+    <node id="#lca2013">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">lca2013</data>
+    </node>
+    <node id="#philly">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">philly</data>
+    </node>
+    <node id="#ocra">
+      <data key="d0">0</data>
+      <data key="d1">17</data>
+      <data key="d2">ocra</data>
+    </node>
+    <node id="#django">
+      <data key="d0">0</data>
+      <data key="d1">163</data>
+      <data key="d2">django</data>
+    </node>
+    <node id="#sunday">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+      <data key="d2">sunday</data>
+    </node>
+    <node id="@raymondh">
+      <data key="d0">1</data>
+      <data key="d1">191</data>
+      <data key="d2">raymondh</data>
+    </node>
+    <node id="la fontana restaurant">
+      <data key="d0">2</data>
+      <data key="d1">13</data>
+      <data key="d2">la fontana restaurant</data>
+    </node>
+    <node id="#hottiesatpycon">
+      <data key="d0">0</data>
+      <data key="d1">59</data>
+      <data key="d2">hottiesatpycon</data>
+    </node>
+    <node id="#hackers">
+      <data key="d0">0</data>
+      <data key="d1">15</data>
+      <data key="d2">hackers</data>
+    </node>
+    <node id="useful tool)">
+      <data key="d0">2</data>
+      <data key="d1">13</data>
+      <data key="d2">useful tool)</data>
+    </node>
+    <node id="star wars lego">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">star wars lego</data>
+    </node>
+    <node id="the call jalen rose">
+      <data key="d0">2</data>
+      <data key="d1">13</data>
+      <data key="d2">the call jalen rose</data>
+    </node>
+    <node id="#photo">
+      <data key="d0">0</data>
+      <data key="d1">17</data>
+      <data key="d2">photo</data>
+    </node>
+    <node id="@raspberry_pi">
+      <data key="d0">1</data>
+      <data key="d1">197</data>
+      <data key="d2">raspberry_pi</data>
+    </node>
+    <node id="#jointheflock">
+      <data key="d0">0</data>
+      <data key="d1">25</data>
+      <data key="d2">jointheflock</data>
+    </node>
+    <node id="mountain view">
+      <data key="d0">2</data>
+      <data key="d1">29</data>
+      <data key="d2">mountain view</data>
+    </node>
+    <node id="#io">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+      <data key="d2">io</data>
+    </node>
+    <node id="#taurus">
+      <data key="d0">0</data>
+      <data key="d1">17</data>
+      <data key="d2">taurus</data>
+    </node>
+    <node id="star war lego">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">star war lego</data>
+    </node>
+    <node id="#styleseat">
+      <data key="d0">0</data>
+      <data key="d1">85</data>
+      <data key="d2">styleseat</data>
+    </node>
+    <node id="#sfo">
+      <data key="d0">0</data>
+      <data key="d1">35</data>
+      <data key="d2">sfo</data>
+    </node>
+    <node id="@dabeaz">
+      <data key="d0">1</data>
+      <data key="d1">123</data>
+      <data key="d2">dabeaz</data>
+    </node>
+    <node id="#postgres">
+      <data key="d0">0</data>
+      <data key="d1">21</data>
+      <data key="d2">postgres</data>
+    </node>
+    <node id="#sxsw">
+      <data key="d0">0</data>
+      <data key="d1">43</data>
+      <data key="d2">sxsw</data>
+    </node>
+    <node id="the internet">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">the internet</data>
+    </node>
+    <node id="@davidblewett">
+      <data key="d0">1</data>
+      <data key="d1">53</data>
+      <data key="d2">davidblewett</data>
+    </node>
+    <node id="#celery">
+      <data key="d0">0</data>
+      <data key="d1">15</data>
+      <data key="d2">celery</data>
+    </node>
+    <node id="#opensource">
+      <data key="d0">0</data>
+      <data key="d1">17</data>
+      <data key="d2">opensource</data>
+    </node>
+    <node id="#arduino">
+      <data key="d0">0</data>
+      <data key="d1">31</data>
+      <data key="d2">arduino</data>
+    </node>
+    <node id="#beaker">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">beaker</data>
+    </node>
+    <node id="#nothingfeelsbetterthan">
+      <data key="d0">0</data>
+      <data key="d1">23</data>
+      <data key="d2">nothingfeelsbetterthan</data>
+    </node>
+    <node id="#aaronsw">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+      <data key="d2">aaronsw</data>
+    </node>
+    <node id="a slice">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">a slice</data>
+    </node>
+    <node id="#inclusion">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">inclusion</data>
+    </node>
+    <node id="#tipbof">
+      <data key="d0">0</data>
+      <data key="d1">99</data>
+      <data key="d2">tipbof</data>
+    </node>
+    <node id="next up">
+      <data key="d0">2</data>
+      <data key="d1">17</data>
+      <data key="d2">next up</data>
+    </node>
+    <node id="#visualization">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">visualization</data>
+    </node>
+    <node id="#mozilla">
+      <data key="d0">0</data>
+      <data key="d1">15</data>
+      <data key="d2">mozilla</data>
+    </node>
+    <node id="young coders">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">young coders</data>
+    </node>
+    <node id="#2013chappys">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+      <data key="d2">2013chappys</data>
+    </node>
+    <node id="#diversity">
+      <data key="d0">0</data>
+      <data key="d1">13</data>
+      <data key="d2">diversity</data>
+    </node>
+    <node id="@kantrn">
+      <data key="d0">1</data>
+      <data key="d1">77</data>
+      <data key="d2">kantrn</data>
+    </node>
+    <node id="#gotanawesomeseat">
+      <data key="d0">0</data>
+      <data key="d1">17</data>
+      <data key="d2">gotanawesomeseat</data>
+    </node>
+    <node id="#divebar">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">divebar</data>
+    </node>
+    <node id="#wishyouwerehere">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">wishyouwerehere</data>
+    </node>
+    <node id="@claytron">
+      <data key="d0">1</data>
+      <data key="d1">53</data>
+      <data key="d2">claytron</data>
+    </node>
+    <node id="#lapio">
+      <data key="d0">0</data>
+      <data key="d1">35</data>
+      <data key="d2">lapio</data>
+    </node>
+    <node id="#ladycoders">
+      <data key="d0">0</data>
+      <data key="d1">79</data>
+      <data key="d2">ladycoders</data>
+    </node>
+    <node id="#kcamessagetobtr">
+      <data key="d0">0</data>
+      <data key="d1">25</data>
+      <data key="d2">kcamessagetobtr</data>
+    </node>
+    <node id="a taste">
+      <data key="d0">2</data>
+      <data key="d1">27</data>
+      <data key="d2">a taste</data>
+    </node>
+    <node id="#pifarm">
+      <data key="d0">0</data>
+      <data key="d1">19</data>
+      <data key="d2">pifarm</data>
+    </node>
+    <node id="#rnd">
+      <data key="d0">0</data>
+      <data key="d1">17</data>
+      <data key="d2">rnd</data>
+    </node>
+    <node id="#wxpython">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">wxpython</data>
+    </node>
+    <node id="#pyfes">
+      <data key="d0">0</data>
+      <data key="d1">25</data>
+      <data key="d2">pyfes</data>
+    </node>
+    <node id="#keynote">
+      <data key="d0">0</data>
+      <data key="d1">31</data>
+      <data key="d2">keynote</data>
+    </node>
+    <node id="@bkjones">
+      <data key="d0">1</data>
+      <data key="d1">61</data>
+      <data key="d2">bkjones</data>
+    </node>
+    <node id="#rapidsms">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">rapidsms</data>
+    </node>
+    <node id="san fran">
+      <data key="d0">2</data>
+      <data key="d1">13</data>
+      <data key="d2">san fran</data>
+    </node>
+    <node id="#railscastmyass">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">railscastmyass</data>
+    </node>
+    <node id="python language summit">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">python language summit</data>
+    </node>
+    <node id="#packaging">
+      <data key="d0">0</data>
+      <data key="d1">13</data>
+      <data key="d2">packaging</data>
+    </node>
+    <node id="#ballroom">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">ballroom</data>
+    </node>
+    <node id="#lame">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+      <data key="d2">lame</data>
+    </node>
+    <node id="#fun">
+      <data key="d0">0</data>
+      <data key="d1">19</data>
+      <data key="d2">fun</data>
+    </node>
+    <node id="#pep3156">
+      <data key="d0">0</data>
+      <data key="d1">11</data>
+      <data key="d2">pep3156</data>
+    </node>
+    <node id="#shdh">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">shdh</data>
+    </node>
+    <node id="#tech">
+      <data key="d0">0</data>
+      <data key="d1">19</data>
+      <data key="d2">tech</data>
+    </node>
+    <node id="#noreally">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">noreally</data>
+    </node>
+    <node id="#bdw13">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">bdw13</data>
+    </node>
+    <node id="saving lives">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">saving lives</data>
+    </node>
+    <node id="#pyconjp">
+      <data key="d0">0</data>
+      <data key="d1">5</data>
+      <data key="d2">pyconjp</data>
+    </node>
+    <node id="#schwag">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+      <data key="d2">schwag</data>
+    </node>
+    <node id="ha ha ha">
+      <data key="d0">2</data>
+      <data key="d1">11</data>
+      <data key="d2">ha ha ha</data>
+    </node>
+    <node id="#swift">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">swift</data>
+    </node>
+    <node id="@stenoknight">
+      <data key="d0">1</data>
+      <data key="d1">67</data>
+      <data key="d2">stenoknight</data>
+    </node>
+    <node id="happy st">
+      <data key="d0">2</data>
+      <data key="d1">15</data>
+      <data key="d2">happy st</data>
+    </node>
+    <node id="hacker lounge">
+      <data key="d0">2</data>
+      <data key="d1">37</data>
+      <data key="d2">hacker lounge</data>
+    </node>
+    <node id="mission city">
+      <data key="d0">2</data>
+      <data key="d1">23</data>
+      <data key="d2">mission city</data>
+    </node>
+    <node id="@jessenoller">
+      <data key="d0">1</data>
+      <data key="d1">347</data>
+      <data key="d2">jessenoller</data>
+    </node>
+    <node id="six feet up">
+      <data key="d0">2</data>
+      <data key="d1">27</data>
+      <data key="d2">six feet up</data>
+    </node>
+    <node id="#adainitiative">
+      <data key="d0">0</data>
+      <data key="d1">9</data>
+      <data key="d2">adainitiative</data>
+    </node>
+    <node id="nails sponsored by">
+      <data key="d0">2</data>
+      <data key="d1">17</data>
+      <data key="d2">nails sponsored by</data>
+    </node>
+    <node id="@crlganz">
+      <data key="d0">1</data>
+      <data key="d1">53</data>
+      <data key="d2">crlganz</data>
+    </node>
+    <node id="#dimepiece">
+      <data key="d0">0</data>
+      <data key="d1">39</data>
+      <data key="d2">dimepiece</data>
+    </node>
+    <node id="bay area">
+      <data key="d0">2</data>
+      <data key="d1">33</data>
+      <data key="d2">bay area</data>
+    </node>
+    <node id="job fair">
+      <data key="d0">2</data>
+      <data key="d1">39</data>
+      <data key="d2">job fair</data>
+    </node>
+    <node id="#buzzfeedbusiness">
+      <data key="d0">0</data>
+      <data key="d1">7</data>
+      <data key="d2">buzzfeedbusiness</data>
+    </node>
+    <node id="#myhdl">
+      <data key="d0">0</data>
+      <data key="d1">19</data>
+      <data key="d2">myhdl</data>
+    </node>
+    <edge source="eben upton" target="pycon us">
       <data key="d3">2</data>
     </edge>
-    <edge source="#pyworks" target="@gvanrossum">
+    <edge source="eben upton" target="raspberry pi">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="eben upton" target="@raspberry_pi">
       <data key="d3">2</data>
     </edge>
-    <edge source="@palendae" target="@davidblewett">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@palendae" target="@calvinhp">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@palendae" target="@gabriellehp">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@palendae" target="@crlganz">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@palendae" target="@claytron">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="#ipython" target="#android">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#ipython" target="@dabeaz">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#ipython" target="#kernel">
+    <edge source="jalen rose" target="louis delmas">
       <data key="d3">2</data>
     </edge>
-    <edge source="#ipython" target="#ipython">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#ipython" target="#raspberrypi">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#ipython" target="#cherrypy">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#ipython" target="#django">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#ipython" target="#flask">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#ipython" target="#pandas">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="#ipython" target="#notebook">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#ipython" target="#postgresql">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#cherrypy" target="#android">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#cherrypy" target="#pandas">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#cherrypy" target="#raspberrypi">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#cherrypy" target="#django">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#cherrypy" target="#flask">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#cherrypy" target="#postgresql">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#yay" target="#fun">
+    <edge source="jalen rose" target="#2013chappys">
       <data key="d3">2</data>
     </edge>
-    <edge source="#yay" target="#unicode">
+    <edge source="jalen rose" target="#grandesmentiras">
       <data key="d3">2</data>
+    </edge>
+    <edge source="jalen rose" target="the call jalen rose">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="jalen rose" target="#10thingsigetalot">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="jalen rose" target="#kcamessagetobtr">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="jalen rose" target="#zipsgameday">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="jalen rose" target="#nothingfeelsbetterthan">
+      <data key="d3">4</data>
     </edge>
     <edge source="#galaxys4" target="#sxsw">
       <data key="d3">6</data>
@@ -1214,68 +1819,35 @@
     <edge source="#galaxys4" target="#tedxdeextinction">
       <data key="d3">4</data>
     </edge>
-    <edge source="#gemini" target="#sxsw">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#gemini" target="#news">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#gemini" target="#taurus">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#gemini" target="#pisces">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#gemini" target="#ocra">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#gemini" target="#vegas">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#gemini" target="#yep">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#gemini" target="#rnd">
-      <data key="d3">2</data>
-    </edge>
     <edge source="#plover" target="@stenoknight">
       <data key="d3">2</data>
     </edge>
     <edge source="#plover" target="#vim">
       <data key="d3">2</data>
     </edge>
-    <edge source="#openscience" target="#aaronsw">
+    <edge source="#adacamp" target="@pyladies">
       <data key="d3">2</data>
     </edge>
-    <edge source="#openscience" target="@pyladies">
-      <data key="d3">2</data>
+    <edge source="#adacamp" target="sf june">
+      <data key="d3">8</data>
     </edge>
-    <edge source="#openscience" target="#openaccess">
-      <data key="d3">2</data>
+    <edge source="#adacamp" target="@adainitiative">
+      <data key="d3">8</data>
     </edge>
-    <edge source="#openscience" target="#science">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#openscience" target="#opensource">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#tralalalalaaa" target="#darts">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#tralalalalaaa" target="#dives">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#tralalalalaaa" target="#drinks">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@capttwinky" target="@kellyshalk">
+    <edge source="#adacamp" target="adacamp q&amp;amp">
       <data key="d3">4</data>
+    </edge>
+    <edge source="@capttwinky" target="@beachgirl">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@capttwinky" target="taming pythons">
+      <data key="d3">2</data>
     </edge>
     <edge source="@capttwinky" target="@jointheflock">
       <data key="d3">14</data>
     </edge>
-    <edge source="@capttwinky" target="@beachgirl">
-      <data key="d3">2</data>
+    <edge source="@capttwinky" target="@kellyshalk">
+      <data key="d3">4</data>
     </edge>
     <edge source="#postgresql" target="#android">
       <data key="d3">4</data>
@@ -1283,7 +1855,13 @@
     <edge source="#postgresql" target="#pypgday">
       <data key="d3">2</data>
     </edge>
+    <edge source="#postgresql" target="santa monica">
+      <data key="d3">2</data>
+    </edge>
     <edge source="#postgresql" target="#pandas">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#postgresql" target="#ipython">
       <data key="d3">4</data>
     </edge>
     <edge source="#postgresql" target="#pyramid">
@@ -1292,7 +1870,10 @@
     <edge source="#postgresql" target="#raspberrypi">
       <data key="d3">4</data>
     </edge>
-    <edge source="#postgresql" target="#celery">
+    <edge source="#postgresql" target="#cherrypy">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#postgresql" target="job fair">
       <data key="d3">2</data>
     </edge>
     <edge source="#postgresql" target="#django">
@@ -1301,248 +1882,101 @@
     <edge source="#postgresql" target="#flask">
       <data key="d3">4</data>
     </edge>
+    <edge source="#postgresql" target="#celery">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#postgresql" target="python weekly">
+      <data key="d3">4</data>
+    </edge>
     <edge source="#postgresql" target="#postgres">
       <data key="d3">2</data>
     </edge>
-    <edge source="@solanolabs" target="@loggly">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@solanolabs" target="@rackspace">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@solanolabs" target="@newrelic">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="@solanolabs" target="@pyladies">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@solanolabs" target="#newrelic">
+    <edge source="eben upton brings" target="#f4f">
       <data key="d3">2</data>
     </edge>
-    <edge source="@solanolabs" target="@bluebox">
-      <data key="d3">6</data>
+    <edge source="eben upton brings" target="bay area">
+      <data key="d3">12</data>
     </edge>
-    <edge source="#tipbof" target="@saucelabs">
+    <edge source="eben upton brings" target="raspberry pi’s eben upton">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="eben upton brings" target="#maker">
       <data key="d3">2</data>
     </edge>
-    <edge source="#tipbof" target="#bof">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#tipbof" target="#hashtags">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#tipbof" target="@garybernhardt">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#tipbof" target="@ctitusbrown">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#tipbof" target="#birdsofafeather">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#tipbof" target="#tip">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#tipbof" target="#noreally">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#tipbof" target="#testing">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#dives" target="#darts">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#dives" target="#drinks">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#raspberrypi" target="#keynote">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="#raspberrypi" target="#kivy">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#raspberrypi" target="#arduino">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#raspberrypi" target="@caktusgroup">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="#raspberrypi" target="#rapidsms">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#raspberrypi" target="#raspberryio">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#raspberrypi" target="#ftw">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#raspberrypi" target="#saltstack">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#raspberrypi" target="@saucelabs">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#raspberrypi" target="@jessenoller">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#raspberrypi" target="@thepsf">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#raspberrypi" target="#fb">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#raspberrypi" target="#django">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#raspberrypi" target="#flask">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#raspberrypi" target="#android">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#raspberrypi" target="#pandas">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#raspberrypi" target="@geography76">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#raspberrypi" target="@kantrn">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#raspberrypi" target="#simplecv">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#raspberrypi" target="#awesome">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="#io" target="#sunday">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#io" target="#pep3156">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#io" target="#tulip">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#io" target="#async">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@caktusgroup" target="#rapidsms">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@caktusgroup" target="#raspberryio">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#openstack" target="#packaging">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#openstack" target="#beaker">
+    <edge source="#openstack" target="red hat">
       <data key="d3">2</data>
     </edge>
     <edge source="#openstack" target="#openshift">
       <data key="d3">2</data>
     </edge>
-    <edge source="#bof" target="#hashtags">
+    <edge source="#openstack" target="#packaging">
       <data key="d3">2</data>
     </edge>
-    <edge source="#bof" target="#birdsofafeather">
+    <edge source="#openstack" target="swift api">
       <data key="d3">2</data>
     </edge>
-    <edge source="#bof" target="#testing">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#bof" target="#tip">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="#openaccess" target="#aaronsw">
+    <edge source="#openstack" target="#swift">
       <data key="d3">2</data>
     </edge>
-    <edge source="#10thingsigetalot" target="#zipsgameday">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#10thingsigetalot" target="#grandesmentiras">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#10thingsigetalot" target="#10thingsigetalot">
+    <edge source="#openstack" target="#beaker">
       <data key="d3">2</data>
     </edge>
-    <edge source="#10thingsigetalot" target="#kcamessagetobtr">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@jackiekazil" target="@roguelynn">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@jackiekazil" target="#pyladies">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@jackiekazil" target="@bshaurette">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@jackiekazil" target="@jessenoller">
+    <edge source="#raspberryio" target="#raspberrypi">
       <data key="d3">2</data>
     </edge>
-    <edge source="@jackiekazil" target="@selenamarie">
+    <edge source="#raspberryio" target="raspberry pi">
       <data key="d3">2</data>
     </edge>
-    <edge source="@jackiekazil" target="@kcunning">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@jackiekazil" target="@jointheflock">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@raspberry_pi" target="@saucelabs">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@raspberry_pi" target="@bshaurette">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@raspberry_pi" target="@jessenoller">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@raspberry_pi" target="#fb">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@raspberry_pi" target="@kcunning">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@raspberry_pi" target="#picrust">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@raspberry_pi" target="#bedroomclosetdatacenter">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@raspberry_pi" target="#simplecv">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@raspberry_pi" target="#pifarm">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@raspberry_pi" target="#win">
+    <edge source="#raspberryio" target="@caktusgroup">
       <data key="d3">2</data>
     </edge>
     <edge source="#drinks" target="#darts">
       <data key="d3">2</data>
     </edge>
-    <edge source="#aws" target="#vmware">
+    <edge source="#drinks" target="beefy's cabin">
       <data key="d3">2</data>
     </edge>
-    <edge source="#aws" target="#rackspace">
+    <edge source="#drinks" target="#dives">
       <data key="d3">2</data>
     </edge>
-    <edge source="#aws" target="#hpcloud">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#shootforthestars" target="#10minutemile">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#shootforthestars" target="#ugh">
+    <edge source="#drinks" target="#tralalalalaaa">
       <data key="d3">2</data>
     </edge>
     <edge source="#newrelic" target="@pyladies">
       <data key="d3">4</data>
     </edge>
+    <edge source="#newrelic" target="san francisco">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#newrelic" target="@solanolabs">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="python weekly" target="#android">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="python weekly" target="#pandas">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="python weekly" target="#ipython">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="python weekly" target="#raspberrypi">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="python weekly" target="#cherrypy">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="python weekly" target="#django">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="python weekly" target="#flask">
+      <data key="d3">4</data>
+    </edge>
     <edge source="#saltstack" target="#today">
       <data key="d3">4</data>
+    </edge>
+    <edge source="#saltstack" target="#raspberrypi">
+      <data key="d3">2</data>
     </edge>
     <edge source="#saltstack" target="#meetup">
       <data key="d3">4</data>
@@ -1550,43 +1984,22 @@
     <edge source="#saltstack" target="#saltstack">
       <data key="d3">2</data>
     </edge>
-    <edge source="@calvinhp" target="@davidblewett">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@calvinhp" target="@gabriellehp">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@calvinhp" target="@claytron">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@calvinhp" target="@crlganz">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@adainitiative" target="@pyladies">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@adainitiative" target="@kcunning">
+    <edge source="#async" target="#sunday">
       <data key="d3">2</data>
     </edge>
-    <edge source="@adainitiative" target="#adacamp">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@thepsf" target="#awesome">
+    <edge source="#async" target="#pep3156">
       <data key="d3">2</data>
     </edge>
-    <edge source="@thepsf" target="#rasberrypi">
+    <edge source="#async" target="#io">
       <data key="d3">2</data>
     </edge>
-    <edge source="@thepsf" target="#raspberrypis">
+    <edge source="#async" target="#tulip">
       <data key="d3">2</data>
     </edge>
-    <edge source="@thepsf" target="@jessenoller">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="#visualization" target="@idangazit">
+    <edge source="#fb" target="#raspberrypi">
       <data key="d3">2</data>
     </edge>
-    <edge source="#visualization" target="@geography76">
+    <edge source="#fb" target="@raspberry_pi">
       <data key="d3">2</data>
     </edge>
     <edge source="#fb" target="@jessenoller">
@@ -1601,88 +2014,55 @@
     <edge source="#winning" target="#railscastmyass">
       <data key="d3">2</data>
     </edge>
-    <edge source="#styleseat" target="#dimepiece">
+    <edge source="santa clara convention center" target="at pycon">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="santa clara convention center" target="young coders">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="santa clara convention center" target="@saucelabs">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="santa clara convention center" target="@twitter">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="santa clara convention center" target="@santaclaraca">
+      <data key="d3">40</data>
+    </edge>
+    <edge source="santa clara convention center" target="raspberry pi">
       <data key="d3">6</data>
     </edge>
-    <edge source="#styleseat" target="#pixiedust">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#styleseat" target="@styleseat">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="#styleseat" target="#nailjerks">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="#styleseat" target="#nailart">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="#styleseat" target="#hot">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#styleseat" target="#nailsdid">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="#styleseat" target="#flossgloss">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="#sfo" target="#pdx">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#sfo" target="#pyladies">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@geodawg" target="@pramirez624">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="@geodawg" target="#safeway">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@geodawg" target="#radar">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@geodawg" target="#pedroscantina">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@geodawg" target="#southwest">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@geodawg" target="#enjoy">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@geodawg" target="@andrewfhart">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="@geodawg" target="#youknowyoureatpyconwhen">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@geodawg" target="@sigep311">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="@geodawg" target="#day1">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#pyvegans" target="@kantrn">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#pyvegans" target="@daniellindsley">
+    <edge source="santa clara convention center" target="mission city">
       <data key="d3">2</data>
     </edge>
     <edge source="#bedroomclosetdatacenter" target="#pifarm">
       <data key="d3">4</data>
     </edge>
-    <edge source="#zipsgameday" target="#grandesmentiras">
+    <edge source="#bedroomclosetdatacenter" target="@raspberry_pi">
       <data key="d3">2</data>
     </edge>
-    <edge source="#zipsgameday" target="#kcamessagetobtr">
-      <data key="d3">2</data>
+    <edge source="adacamp q&amp;amp" target="sf june">
+      <data key="d3">4</data>
     </edge>
-    <edge source="@gvanrossum" target="@pyladies">
+    <edge source="adacamp q&amp;amp" target="@adainitiative">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@gvanrossum" target="#pyworks">
       <data key="d3">2</data>
     </edge>
     <edge source="@gvanrossum" target="#tulip">
       <data key="d3">2</data>
     </edge>
     <edge source="@gvanrossum" target="#keynote">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@gvanrossum" target="raspberry pi">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@gvanrossum" target="san fran">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@gvanrossum" target="@pyladies">
       <data key="d3">2</data>
     </edge>
     <edge source="@gvanrossum" target="@openshift">
@@ -1700,37 +2080,19 @@
     <edge source="#tedxdeextinction" target="#startny">
       <data key="d3">4</data>
     </edge>
-    <edge source="@dabeaz" target="@pyladies">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#pandas" target="#android">
+    <edge source="visualizing github" target="@idangazit">
       <data key="d3">4</data>
     </edge>
-    <edge source="#pandas" target="#django">
+    <edge source="visualizing github" target="#getcomfy">
       <data key="d3">4</data>
     </edge>
-    <edge source="#pandas" target="#flask">
+    <edge source="visualizing github" target="@geography76">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="visualizing github" target="next up">
       <data key="d3">4</data>
     </edge>
-    <edge source="#pandas" target="#notebook">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#unicode" target="#fun">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#hackerhive" target="#mozilla">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#hackerhive" target="#adainitiative">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#paas" target="#awesome">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#paas" target="#dotcloud">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="#paas" target="@openshift">
+    <edge source="visualizing github" target="#gotanawesomeseat">
       <data key="d3">4</data>
     </edge>
     <edge source="@kcunning" target="@roguelynn">
@@ -1739,8 +2101,11 @@
     <edge source="@kcunning" target="#pyladies">
       <data key="d3">6</data>
     </edge>
-    <edge source="@kcunning" target="@bshaurette">
-      <data key="d3">10</data>
+    <edge source="@kcunning" target="@adainitiative">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@kcunning" target="@raspberry_pi">
+      <data key="d3">4</data>
     </edge>
     <edge source="@kcunning" target="@jessenoller">
       <data key="d3">2</data>
@@ -1751,49 +2116,1009 @@
     <edge source="@kcunning" target="@styleseat">
       <data key="d3">2</data>
     </edge>
+    <edge source="@kcunning" target="young coder">
+      <data key="d3">2</data>
+    </edge>
     <edge source="@kcunning" target="@pyladies">
       <data key="d3">6</data>
     </edge>
-    <edge source="@dirnonline" target="#cardsagainsthumanity">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@dirnonline" target="@ladycoders">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@dirnonline" target="@jointheflock">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@dirnonline" target="@kennethlove">
+    <edge source="@kcunning" target="@bshaurette">
       <data key="d3">10</data>
     </edge>
-    <edge source="@sigep311" target="@pramirez624">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="@sigep311" target="#safeway">
+    <edge source="@kcunning" target="@jackiekazil">
       <data key="d3">2</data>
     </edge>
-    <edge source="@sigep311" target="#radar">
+    <edge source="monetate engineering" target="mountain view">
       <data key="d3">2</data>
     </edge>
-    <edge source="@sigep311" target="#pedroscantina">
+    <edge source="monetate engineering" target="#philly">
       <data key="d3">2</data>
     </edge>
-    <edge source="@sigep311" target="#southwest">
+    <edge source="santa clara" target="@roguelynn">
       <data key="d3">2</data>
     </edge>
-    <edge source="@sigep311" target="@andrewfhart">
+    <edge source="santa clara" target="santa clara">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="santa clara" target="@jessenoller">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="santa clara" target="pycon us">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="santa clara" target="#sfo">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="santa clara" target="#dbaas">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="santa clara" target="pi day">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="santa clara" target="#lax">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="santa clara" target="@oreillymedia">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="santa clara" target="#awesome">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="santa clara" target="san francisco">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="santa clara" target="#win">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="santa clara" target="@jointheflock">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#meetup" target="#today">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@pydanny" target="@roguelynn">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@pydanny" target="@newrelic">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@pydanny" target="@jacobian">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@pydanny" target="@raymondh">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#nailjerks" target="nails sponsored by">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#nailjerks" target="#dimepiece">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="#nailjerks" target="#nailart">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="#nailjerks" target="#styleseat">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="#nailjerks" target="@styleseat">
       <data key="d3">18</data>
     </edge>
-    <edge source="@sigep311" target="#youknowyoureatpyconwhen">
+    <edge source="#nailjerks" target="#hot">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#nailjerks" target="#nailsdid">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="#nailjerks" target="#flossgloss">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="#notebook" target="#kernel">
       <data key="d3">2</data>
     </edge>
-    <edge source="@sigep311" target="@ctitusbrown">
+    <edge source="#notebook" target="#pandas">
       <data key="d3">2</data>
     </edge>
-    <edge source="@sigep311" target="#day1">
+    <edge source="#notebook" target="#ipython">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="in n out" target="@twisitor">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="in n out" target="@jointheflock">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#cherrypy" target="#android">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#cherrypy" target="#pandas">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#cherrypy" target="#ipython">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#cherrypy" target="#raspberrypi">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#cherrypy" target="#django">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#cherrypy" target="#flask">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#marryageek" target="geeks are hot">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="#marryageek" target="#hottiesatpycon">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="#10minutemile" target="#shootforthestars">
       <data key="d3">2</data>
     </edge>
-    <edge source="#herpderp" target="#darts">
+    <edge source="#10minutemile" target="#ugh">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="taming pythons" target="@kellyshalk">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="taming pythons" target="@geography76">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="taming pythons" target="@jointheflock">
+      <data key="d3">76</data>
+    </edge>
+    <edge source="taming pythons" target="#lame">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="taming pythons" target="@twisitor">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="jack dorsey" target="#pyladies">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="jack dorsey" target="@jacobian">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="jack dorsey" target="@jessenoller">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#radar" target="@pramirez624">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#radar" target="@andrewfhart">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#radar" target="@geodawg">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#radar" target="@sigep311">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@nedbat" target="tip bof">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@nedbat" target="useful tool)">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@nedbat" target="@garybernhardt">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@nedbat" target="keyboard cat">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@nedbat" target="@walterbender">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="@nedbat" target="python ipsum">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@nedbat" target="@estherbester">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@nedbat" target="@chrismattmann">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@nedbat" target="#ftw">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@newrelic" target="@solanolabs">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="@newrelic" target="@rackspace">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@newrelic" target="@loggly">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@newrelic" target="@newrelic">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@newrelic" target="a taste">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@newrelic" target="@pyladies">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="@newrelic" target="@bluebox">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="#tolot" target="#pyconjp">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#tolot" target="#pyfes">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#f4f" target="#maker">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#f4f" target="raspberry pi’s eben upton">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#f4f" target="bay area">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@estherbester" target="@jointheflock">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@holdenweb" target="@kellyshalk">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@holdenweb" target="@adainitiative">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@holdenweb" target="@jessenoller">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="@holdenweb" target="#santaclara">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@holdenweb" target="#fossopw">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@holdenweb" target="@kantrn">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@holdenweb" target="pycon officially starts tomorrow">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@holdenweb" target="are you guys ready to rummbbbleee">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@holdenweb" target="get loud">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@holdenweb" target="@jointheflock">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@chrismattmann" target="@pramirez624">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@chrismattmann" target="#pedroscantina">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@chrismattmann" target="#southwest">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@chrismattmann" target="#enjoy">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@chrismattmann" target="@andrewfhart">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="@chrismattmann" target="@sigep311">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@chrismattmann" target="@geodawg">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="louis delmas" target="#kcamessagetobtr">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="louis delmas" target="#nothingfeelsbetterthan">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="louis delmas" target="#2013chappys">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="new event" target="#mongodb">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="new event" target="mongodb office hours">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@ladycoders" target="@loggly">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@ladycoders" target="#allthesingleladies">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@ladycoders" target="#youshouldbehere">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@ladycoders" target="@dirnonline">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@ladycoders" target="@kennethlove">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@ladycoders" target="@jointheflock">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#vmware" target="#aws">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vmware" target="#rackspace">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vmware" target="#hpcloud">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="swift api" target="red hat">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="swift api" target="#swift">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="san francisco" target="@pyladies">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="san francisco" target="patrick's day">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#kernel" target="#ipython">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#djangoproject" target="#django">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#djangoproject" target="#tutoring">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@styleseat" target="nails sponsored by">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@styleseat" target="#dimepiece">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="@styleseat" target="#pixiedust">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@styleseat" target="#styleseat">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="@styleseat" target="@kantrn">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@styleseat" target="#nailart">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="@styleseat" target="#hot">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@styleseat" target="#nailsdid">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="@styleseat" target="#flossgloss">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="#ftw" target="#raspberrypi">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#education" target="@roguelynn">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#education" target="the future">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#education" target="new coders">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@loggly" target="@rackspace">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@loggly" target="#pyramid">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@loggly" target="a taste">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@loggly" target="@pyladies">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="@loggly" target="@beachgirl">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="@loggly" target="@twisitor">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@loggly" target="@bluebox">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="@loggly" target="@jointheflock">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="@loggly" target="@solanolabs">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="feminist hacker lounge" target="#mozilla">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="feminist hacker lounge" target="raspberry pi">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="feminist hacker lounge" target="#hackerhive">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="feminist hacker lounge" target="#adainitiative">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pixiedust" target="#nailart">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#pixiedust" target="#styleseat">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#kivy" target="#raspberrypi">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#kivy" target="#rpi">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#hieroglyph" target="#rst">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#hieroglyph" target="#sphinx">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="of pie-con" target="a slice">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="of pie-con" target="get it">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="of pie-con" target="ha ha ha get it">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="of pie-con" target="ha ha ha">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#motiviation" target="@walterbender">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#motiviation" target="#edusummit">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="new modularity" target="object inheritance">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="new modularity" target="the end">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#safe" target="#startuplife">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#safe" target="startup row">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#safe" target="saving lives">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vision" target="#hackers">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vision" target="#raspberry">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vision" target="#community">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vision" target="watching eben upton keynote">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vision" target="#robots">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vision" target="#awesome">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pypgday" target="#postgres">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@selenamarie" target="#pyramid">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@selenamarie" target="@jackiekazil">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@selenamarie" target="@jointheflock">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#nerdy" target="#awesome">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#nerdy" target="#fun">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="mongodb office hours" target="#bigdata">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="mongodb office hours" target="#bdw13">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="mongodb office hours" target="#mongodb">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="red hat" target="#swift">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pedroscantina" target="@sigep311">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pedroscantina" target="@andrewfhart">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pedroscantina" target="@geodawg">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#santaclara" target="@jessenoller">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#santaclara" target="patrick's day">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#santaclara" target="happy st">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#santaclara" target="pycon officially starts tomorrow">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#santaclara" target="are you guys ready to rummbbbleee">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#santaclara" target="get loud">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pyramid" target="python web frameworks compared">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#pyramid" target="santa monica">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pyramid" target="#plone">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pyramid" target="six feet up">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pyramid" target="job fair">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pyramid" target="#pypgday2013">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pyramid" target="#bottle">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#pyramid" target="#django">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#pyramid" target="#flask">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#pyramid" target="#pylonsproject">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pyramid" target="#celery">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#raspberrypis" target="#awesome">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#raspberrypis" target="@thepsf">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#youknowyoureatpyconwhen" target="@pramirez624">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#youknowyoureatpyconwhen" target="@andrewfhart">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#youknowyoureatpyconwhen" target="@geodawg">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#youknowyoureatpyconwhen" target="@sigep311">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vegas" target="#sxsw">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vegas" target="#news">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vegas" target="#taurus">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vegas" target="#ocra">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vegas" target="#pisces">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vegas" target="#gemini">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vegas" target="#yep">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#vegas" target="#rnd">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#birdsofafeather" target="#bof">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#birdsofafeather" target="#hashtags">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#birdsofafeather" target="#tipbof">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#birdsofafeather" target="#testing">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#birdsofafeather" target="#tip">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#rasberrypi" target="@thepsf">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#getcomfy" target="@geography76">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#getcomfy" target="#gotanawesomeseat">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#getcomfy" target="next up">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#healthit" target="@stenoknight">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#healthit" target="@adriarichards">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#healthit" target="#pwds">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="raspberry pi" target="home automation">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="raspberry pi" target="#pyladies">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="raspberry pi" target="@raymondh">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="raspberry pi" target="and you">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="raspberry pi" target="#raspberrypi">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="raspberry pi" target="raspberry pi">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="raspberry pi" target="@caktusgroup">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="raspberry pi" target="raspberry pis">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="raspberry pi" target="young coder">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="raspberry pi" target="everybody gets a raspberry pi">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="raspberry pi" target="#simplecv">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="raspberry pi" target="@adriarichards">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#robots" target="#hackers">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#robots" target="#raspberry">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#robots" target="#community">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#robots" target="watching eben upton keynote">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#robots" target="#awesome">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#fpga" target="#myhdl">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#fpga" target="#eda">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#364plus1" target="#ballroom">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#364plus1" target="#eventbrite">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#364plus1" target="#poker">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#darts" target="#dives">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#darts" target="beefy's cabin">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#darts" target="#divebar">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#darts" target="#tralalalalaaa">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#darts" target="#herpderp">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@garybernhardt" target="@stenoknight">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@garybernhardt" target="tip bof">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@garybernhardt" target="mission city">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@garybernhardt" target="#tipbof">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#tutoring" target="#django">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#android" target="#pandas">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#android" target="#ipython">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#android" target="#raspberrypi">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#android" target="#django">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#android" target="#flask">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#teamawesome" target="swag monster">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#teamawesome" target="#ladycoders">
+      <data key="d3">30</data>
+    </edge>
+    <edge source="the pycon" target="charity fun run">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="the pycon" target="#lapio">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="swag monster" target="#ladycoders">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#vim" target="@stenoknight">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@palendae" target="@calvinhp">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@palendae" target="@crlganz">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@palendae" target="six feet up">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@palendae" target="@claytron">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@palendae" target="@davidblewett">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@palendae" target="@gabriellehp">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="#mongodb" target="@dirnonline">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#dives" target="beefy's cabin">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#dives" target="#tralalalalaaa">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@caktusgroup" target="#rapidsms">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@caktusgroup" target="raspberry io">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="@caktusgroup" target="#raspberrypi">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="#openaccess" target="#aaronsw">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#openaccess" target="#openscience">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#openaccess" target="the internet">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#10thingsigetalot" target="#grandesmentiras">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#10thingsigetalot" target="#10thingsigetalot">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#10thingsigetalot" target="the call jalen rose">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#10thingsigetalot" target="#kcamessagetobtr">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#10thingsigetalot" target="#zipsgameday">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#hot" target="#dimepiece">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#hot" target="#styleseat">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#hot" target="#nailsdid">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#hot" target="#flossgloss">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#aws" target="#rackspace">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#aws" target="#hpcloud">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#shootforthestars" target="#ugh">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="david beazley" target="@dabeaz">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="david beazley" target="python cookbook">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="david beazley" target="@bkjones">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="raspberry pi’s eben upton" target="bay area">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="raspberry pi’s eben upton" target="#maker">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@thepsf" target="@jessenoller">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="@thepsf" target="#raspberrypi">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@thepsf" target="the future">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@thepsf" target="#awesome">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@geodawg" target="@pramirez624">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="@geodawg" target="#safeway">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@geodawg" target="#southwest">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@geodawg" target="#enjoy">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@geodawg" target="@andrewfhart">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="@geodawg" target="@sigep311">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="@geodawg" target="#day1">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#zipsgameday" target="the call jalen rose">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#zipsgameday" target="#grandesmentiras">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#zipsgameday" target="#kcamessagetobtr">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@jointheflock" target="@kellyshalk">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="@jointheflock" target="@kennethlove">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@jointheflock" target="@beachgirl">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="@jointheflock" target="@pramirez624">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@jointheflock" target="@jackiekazil">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@jointheflock" target="#jobfair">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@jointheflock" target="@roguelynn">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@jointheflock" target="@twitter">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@jointheflock" target="@ctitusbrown">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@jointheflock" target="#lame">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@jointheflock" target="@geography76">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@jointheflock" target="@dirnonline">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@jointheflock" target="@twisitor">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="@jointheflock" target="@openshift">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="raspberry io" target="#django">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="raspberry io" target="#raspberrypi">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="#unicode" target="#fun">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#unicode" target="#yay">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@santaclaraca" target="@saucelabs">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@santaclaraca" target="young coders">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@santaclaraca" target="#photo">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@santaclaraca" target="@openshift">
       <data key="d3">2</data>
     </edge>
     <edge source="#herpderp" target="#divebar">
@@ -1805,85 +3130,28 @@
     <edge source="#win" target="@roguelynn">
       <data key="d3">2</data>
     </edge>
-    <edge source="#kcamessagetobtr" target="#grandesmentiras">
+    <edge source="#win" target="@raspberry_pi">
       <data key="d3">2</data>
     </edge>
-    <edge source="#kcamessagetobtr" target="#2013chappys">
+    <edge source="#simplecv" target="#raspberrypi">
       <data key="d3">2</data>
     </edge>
-    <edge source="#kcamessagetobtr" target="#nothingfeelsbetterthan">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@jointheflock" target="@pramirez624">
+    <edge source="#simplecv" target="@raspberry_pi">
       <data key="d3">2</data>
     </edge>
-    <edge source="@jointheflock" target="@roguelynn">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@jointheflock" target="@kellyshalk">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="@jointheflock" target="@ladycoders">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@jointheflock" target="@twitter">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@jointheflock" target="@loggly">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="@jointheflock" target="@selenamarie">
+    <edge source="@walterbender" target="#edusummit">
       <data key="d3">2</data>
     </edge>
-    <edge source="@jointheflock" target="@ctitusbrown">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@jointheflock" target="@estherbester">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@jointheflock" target="@kennethlove">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@jointheflock" target="@beachgirl">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="@jointheflock" target="#jobfair">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@jointheflock" target="@openshift">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@jointheflock" target="@geography76">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#postgres" target="#pypgday">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#sxsw" target="#news">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#sxsw" target="#taurus">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#sxsw" target="#ocra">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#sxsw" target="#pisces">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#sxsw" target="#yep">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#sxsw" target="#startny">
+    <edge source="geeks are hot" target="#hottiesatpycon">
       <data key="d3">6</data>
     </edge>
-    <edge source="#sxsw" target="#vegas">
+    <edge source="raspberry pis" target="@jessenoller">
       <data key="d3">2</data>
     </edge>
-    <edge source="#sxsw" target="#buzzfeedbusiness">
-      <data key="d3">2</data>
+    <edge source="awesome big data algorithms" target="@ctitusbrown">
+      <data key="d3">6</data>
     </edge>
-    <edge source="#sxsw" target="#rnd">
+    <edge source="awesome big data algorithms" target="#bigdata">
       <data key="d3">2</data>
     </edge>
     <edge source="@kennethreitz" target="@idangazit">
@@ -1892,65 +3160,20 @@
     <edge source="@kennethreitz" target="@hynek">
       <data key="d3">2</data>
     </edge>
-    <edge source="#youshouldbehere" target="#allthesingleladies">
+    <edge source="@kennethreitz" target="@brandon_rhodes">
       <data key="d3">2</data>
     </edge>
-    <edge source="#youshouldbehere" target="@ladycoders">
+    <edge source="@kennethreitz" target="@bkjones">
       <data key="d3">2</data>
     </edge>
-    <edge source="#meetup" target="#today">
+    <edge source="@kennethreitz" target="pycon canada">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="and you" target="and you">
       <data key="d3">4</data>
     </edge>
-    <edge source="@idangazit" target="@geography76">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="@pydanny" target="@roguelynn">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@pydanny" target="@jacobian">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@pydanny" target="@newrelic">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@pydanny" target="@raymondh">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#nailjerks" target="#dimepiece">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="#nailjerks" target="@styleseat">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="#nailjerks" target="#nailart">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="#nailjerks" target="#hot">
+    <edge source="and you" target="everybody gets a raspberry pi">
       <data key="d3">4</data>
-    </edge>
-    <edge source="#nailjerks" target="#nailsdid">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="#nailjerks" target="#flossgloss">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="#opensource" target="#science">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#opensource" target="@jessicamckellar">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#notebook" target="#kernel">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#beaker" target="#packaging">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#beaker" target="#openshift">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#pifarm" target="#pifarm">
-      <data key="d3">2</data>
     </edge>
     <edge source="#python_decorators" target="#decorations">
       <data key="d3">2</data>
@@ -1958,25 +3181,22 @@
     <edge source="#python_decorators" target="#pretty">
       <data key="d3">2</data>
     </edge>
-    <edge source="#nothingfeelsbetterthan" target="#nothingfeelsbetterthan">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#nothingfeelsbetterthan" target="#2013chappys">
+    <edge source="what's not" target="@adainitiative">
       <data key="d3">4</data>
     </edge>
-    <edge source="@crlganz" target="@davidblewett">
-      <data key="d3">8</data>
+    <edge source="what's not" target="what's working">
+      <data key="d3">4</data>
     </edge>
-    <edge source="@crlganz" target="@gabriellehp">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@crlganz" target="@claytron">
-      <data key="d3">8</data>
+    <edge source="what's not" target="ada initiative feminist hacker lounge">
+      <data key="d3">4</data>
     </edge>
     <edge source="#enjoy" target="@pramirez624">
       <data key="d3">2</data>
     </edge>
     <edge source="#enjoy" target="@andrewfhart">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pisces" target="#sxsw">
       <data key="d3">2</data>
     </edge>
     <edge source="#pisces" target="#news">
@@ -1991,52 +3211,76 @@
     <edge source="#pisces" target="#yep">
       <data key="d3">2</data>
     </edge>
-    <edge source="#pisces" target="#vegas">
+    <edge source="#pisces" target="#gemini">
       <data key="d3">2</data>
     </edge>
     <edge source="#pisces" target="#rnd">
       <data key="d3">2</data>
     </edge>
-    <edge source="#inclusion" target="@adriarichards">
+    <edge source="#tralalalalaaa" target="beefy's cabin">
       <data key="d3">2</data>
     </edge>
-    <edge source="#inclusion" target="#diversity">
+    <edge source="keyboard cat" target="tip bof">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="pycon officially starts tomorrow" target="are you guys ready to rummbbbleee">
       <data key="d3">2</data>
     </edge>
-    <edge source="#pyconau" target="@raymondh">
+    <edge source="pycon officially starts tomorrow" target="get loud">
       <data key="d3">2</data>
     </edge>
-    <edge source="#pyconau" target="@jessenoller">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="#pyconau" target="#lca2013">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#adacamp" target="@pyladies">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#async" target="#sunday">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#async" target="#pep3156">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#async" target="#tulip">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#10minutemile" target="#ugh">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#lca2013" target="@jessenoller">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#mozilla" target="#adainitiative">
+    <edge source="pycon officially starts tomorrow" target="@jessenoller">
       <data key="d3">2</data>
     </edge>
     <edge source="@saucelabs" target="#picrust">
       <data key="d3">2</data>
     </edge>
+    <edge source="@saucelabs" target="@raspberry_pi">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@saucelabs" target="#raspberrypi">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@saucelabs" target="#tipbof">
+      <data key="d3">2</data>
+    </edge>
     <edge source="@saucelabs" target="#noreally">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="new coders" target="@roguelynn">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="new coders" target="#diversity">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#tip" target="#bof">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="#tip" target="#hashtags">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#tip" target="#tipbof">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#tip" target="#testing">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#nailsdid" target="#dimepiece">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="#nailsdid" target="#styleseat">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="#nailsdid" target="#nailart">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#nailsdid" target="#flossgloss">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="young coder" target="@bshaurette">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="young coder" target="@jessenoller">
       <data key="d3">2</data>
     </edge>
     <edge source="#day1" target="@pramirez624">
@@ -2045,136 +3289,7 @@
     <edge source="#day1" target="@andrewfhart">
       <data key="d3">2</data>
     </edge>
-    <edge source="@nedbat" target="#ftw">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@nedbat" target="@garybernhardt">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@nedbat" target="@estherbester">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#tip" target="#hashtags">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#tip" target="#birdsofafeather">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#tip" target="#testing">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@kantrn" target="@jessenoller">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@kantrn" target="@styleseat">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@kantrn" target="@daniellindsley">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@kantrn" target="#awesome">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#diversity" target="@roguelynn">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#diversity" target="@adriarichards">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@daniellindsley" target="@jacobian">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@daniellindsley" target="@raymondh">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#nailsdid" target="#dimepiece">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="#nailsdid" target="@styleseat">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="#nailsdid" target="#nailart">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#nailsdid" target="#hot">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#nailsdid" target="#flossgloss">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="#tolot" target="#pyconjp">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#tolot" target="#pyfes">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#gotanawesomeseat" target="#getcomfy">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#gotanawesomeseat" target="@geography76">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#jointheflock" target="@kellyshalk">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#jointheflock" target="@twitter">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="@andrewfhart" target="@pramirez624">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="@andrewfhart" target="#safeway">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@andrewfhart" target="#radar">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@andrewfhart" target="#pedroscantina">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@andrewfhart" target="#youknowyoureatpyconwhen">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@andrewfhart" target="@ctitusbrown">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@newrelic" target="@loggly">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@newrelic" target="@rackspace">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@newrelic" target="@newrelic">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@newrelic" target="@pyladies">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="@newrelic" target="@bluebox">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="#divebar" target="#darts">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#sunday" target="#pep3156">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#sunday" target="#tulip">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#nailart" target="#pixiedust">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#nailart" target="@styleseat">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="#fpga" target="#myhdl">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#fpga" target="#eda">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#wishyouwerehere" target="#railscastmyass">
+    <edge source="#day1" target="@sigep311">
       <data key="d3">2</data>
     </edge>
     <edge source="#polish" target="#dinner">
@@ -2183,52 +3298,649 @@
     <edge source="#polish" target="#hashtagoverload">
       <data key="d3">2</data>
     </edge>
-    <edge source="#dinner" target="#hashtagoverload">
+    <edge source="santa monica" target="#jobs">
       <data key="d3">2</data>
     </edge>
-    <edge source="#pyfes" target="#pyconjp">
+    <edge source="santa monica" target="job fair">
       <data key="d3">2</data>
     </edge>
-    <edge source="#ladycoders" target="#pyladies">
+    <edge source="santa monica" target="software development lead">
       <data key="d3">2</data>
     </edge>
-    <edge source="#ladycoders" target="#schwag">
+    <edge source="santa monica" target="#celery">
       <data key="d3">2</data>
     </edge>
-    <edge source="#hackers" target="#vision">
+    <edge source="santa monica" target="#hulu">
       <data key="d3">2</data>
     </edge>
-    <edge source="#hackers" target="#awesome">
+    <edge source="charity fun run" target="#lapio">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="#startny" target="#sxsw">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="#startny" target="#buzzfeedbusiness">
       <data key="d3">2</data>
     </edge>
-    <edge source="#hackers" target="#community">
+    <edge source="#hashtagoverload" target="#dinner">
       <data key="d3">2</data>
     </edge>
-    <edge source="#hackers" target="#raspberry">
+    <edge source="#community" target="#hackers">
       <data key="d3">2</data>
     </edge>
-    <edge source="#hackers" target="#robots">
+    <edge source="#community" target="#raspberry">
       <data key="d3">2</data>
     </edge>
-    <edge source="#radar" target="@pramirez624">
+    <edge source="#community" target="watching eben upton keynote">
       <data key="d3">2</data>
     </edge>
-    <edge source="@ladycoders" target="@loggly">
+    <edge source="#community" target="#awesome">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@kennethlove" target="#cardsagainsthumanity">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@kennethlove" target="@dirnonline">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="#rackspace" target="#hpcloud">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ada initiative" target="@pyladies">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ada initiative" target="@adainitiative">
       <data key="d3">4</data>
     </edge>
-    <edge source="@ladycoders" target="#allthesingleladies">
+    <edge source="get it" target="a slice">
       <data key="d3">2</data>
     </edge>
-    <edge source="@ladycoders" target="@kennethlove">
-      <data key="d3">4</data>
+    <edge source="get it" target="ha ha ha get it">
+      <data key="d3">2</data>
     </edge>
-    <edge source="#pyladies" target="@roguelynn">
+    <edge source="get it" target="ha ha ha">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@roguelynn" target="#pyladies">
       <data key="d3">16</data>
+    </edge>
+    <edge source="@roguelynn" target="@bshaurette">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@roguelynn" target="@jessenoller">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@roguelynn" target="@jessicamckellar">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@roguelynn" target="@hynek">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@roguelynn" target="#diversity">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@roguelynn" target="@jackiekazil">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@roguelynn" target="@jacobian">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@roguelynn" target="@twisitor">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@roguelynn" target="@raymondh">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#plone" target="six feet up">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="the end" target="object inheritance">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="patrick's day" target="happy st">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@ctitusbrown" target="@pramirez624">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@ctitusbrown" target="tip bof">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@ctitusbrown" target="@andrewfhart">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@ctitusbrown" target="@sigep311">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@ctitusbrown" target="@pyladies">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@ctitusbrown" target="#tipbof">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@pyladies" target="@dabeaz">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@pyladies" target="hacker lounge">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@pyladies" target="san fran">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@pyladies" target="#openscience">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@pyladies" target="@adainitiative">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@pyladies" target="@solanolabs">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@pyladies" target="@rackspace">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="@pyladies" target="a taste">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@pyladies" target="#pyladies">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@pyladies" target="@bluebox">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="pycon canada" target="jessica mckellar">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="pycon canada" target="@jessicamckellar">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#safeway" target="@pramirez624">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#safeway" target="@andrewfhart">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#safeway" target="@sigep311">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#eda" target="#myhdl">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="kate heddleston's" target="@kantrn">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="kate heddleston's" target="@bkjones">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="you should write&quot;" target="you code">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="you should write&quot;" target="@bkjones">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="are you guys ready to rummbbbleee" target="get loud">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="are you guys ready to rummbbbleee" target="@jessenoller">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#flossgloss" target="#dimepiece">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="#flossgloss" target="#styleseat">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="#testing" target="#bof">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#testing" target="#hashtags">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#testing" target="#tipbof">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="startup row" target="#startuplife">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="startup row" target="saving lives">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#allthesingleladies" target="#youshouldbehere">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="software development lead" target="#hulu">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="software development lead" target="#jobs">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#eventbrite" target="#ballroom">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#eventbrite" target="#poker">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="watching eben upton keynote" target="#hackers">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="watching eben upton keynote" target="#raspberry">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="watching eben upton keynote" target="#awesome">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="sf june" target="@adainitiative">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="ha ha ha get it" target="a slice">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ha ha ha get it" target="ha ha ha">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@brandon_rhodes" target="star war lego">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@brandon_rhodes" target="star wars lego">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@brandon_rhodes" target="job fair">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@pramirez624" target="@andrewfhart">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="@pramirez624" target="@sigep311">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="@adriarichards" target="#inclusion">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@adriarichards" target="#pwds">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@adriarichards" target="#diversity">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#dotcloud" target="#awesome">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#dotcloud" target="#paas">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="#cardsagainsthumanity" target="@dirnonline">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="security threat modelling" target="hacker lounge">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="security threat modelling" target="@adainitiative">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#bigdata" target="#bdw13">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@gabriellehp" target="@calvinhp">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@gabriellehp" target="@crlganz">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@gabriellehp" target="six feet up">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@gabriellehp" target="@claytron">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@gabriellehp" target="@davidblewett">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="#hackerhive" target="#mozilla">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#hackerhive" target="#adainitiative">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@bluebox" target="@solanolabs">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="@bluebox" target="@rackspace">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@bluebox" target="a taste">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@kellyshalk" target="@twitter">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@kellyshalk" target="#jointheflock">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@kellyshalk" target="@beachgirl">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@kellyshalk" target="@twisitor">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@twitter" target="#jobfair">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@twitter" target="#jointheflock">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="nick coghlan" target="pycon us">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="nick coghlan" target="python language summit">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="#rpi" target="#wxpython">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#rpi" target="#arduino">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="python web frameworks compared" target="#bottle">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="python web frameworks compared" target="#flask">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="python web frameworks compared" target="#django">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#flask" target="#bottle">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#flask" target="#pandas">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#flask" target="#ipython">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#flask" target="#raspberrypi">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#flask" target="#django">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="#tulip" target="#sunday">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#tulip" target="#pyworks">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#tulip" target="#pep3156">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#tulip" target="#io">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pylonsproject" target="#pypgday2013">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#hulu" target="#tech">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#hulu" target="#jobs">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#poker" target="#ballroom">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@geography76" target="@idangazit">
+      <data key="d3">22</data>
+    </edge>
+    <edge source="@geography76" target="mission city">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@geography76" target="@jessicamckellar">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@geography76" target="#raspberrypi">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@geography76" target="#gotanawesomeseat">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@geography76" target="next up">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@geography76" target="#visualization">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#hashtags" target="#bof">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#hashtags" target="#tipbof">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#raspberry" target="#hackers">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#raspberry" target="#awesome">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@jacobian" target="@jessenoller">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@jacobian" target="@raymondh">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@jacobian" target="@daniellindsley">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#awesome" target="#hackers">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#awesome" target="#fun">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#awesome" target="#keynote">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#awesome" target="#raspberrypi">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="#awesome" target="#paas">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#awesome" target="@kantrn">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@twisitor" target="#lame">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@solanolabs" target="@rackspace">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@solanolabs" target="a taste">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#ipython" target="@dabeaz">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#ipython" target="#ipython">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#ipython" target="#raspberrypi">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#ipython" target="#django">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#ipython" target="#pandas">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="#pyconau" target="#lca2013">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pyconau" target="@jessenoller">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="#pyconau" target="@raymondh">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#yay" target="#fun">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#gemini" target="#sxsw">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#gemini" target="#news">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#gemini" target="#taurus">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#gemini" target="#ocra">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#gemini" target="#yep">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#gemini" target="#rnd">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="the future" target="@jessenoller">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#maker" target="bay area">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="you code" target="@bkjones">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#raspberrypi" target="#arduino">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#raspberrypi" target="#keynote">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="#raspberrypi" target="#rapidsms">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#raspberrypi" target="@jessenoller">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#raspberrypi" target="#django">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#raspberrypi" target="home automation">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#raspberrypi" target="#pandas">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#raspberrypi" target="@kantrn">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@jackiekazil" target="#pyladies">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@jackiekazil" target="@bshaurette">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@jackiekazil" target="@jessenoller">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@calvinhp" target="@crlganz">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@calvinhp" target="six feet up">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@calvinhp" target="@claytron">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@calvinhp" target="@davidblewett">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@adainitiative" target="at pycon">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@adainitiative" target="hacker lounge">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="@adainitiative" target="ada initiative feminist hacker lounge">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="@adainitiative" target="what's working">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@adainitiative" target="#fossopw">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="python ipsum" target="tip bof">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="python ipsum" target="useful tool)">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#pyvegans" target="@kantrn">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pyvegans" target="@daniellindsley">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="tip bof" target="mission city">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="tip bof" target="useful tool)">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#pandas" target="#django">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#paas" target="@openshift">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@sigep311" target="#southwest">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@sigep311" target="@andrewfhart">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="jessica mckellar" target="@jessicamckellar">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#docker" target="mountain view">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#docker" target="#shdh">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="pi day" target="#dbaas">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="get loud" target="@jessenoller">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#startuplife" target="saving lives">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="python cookbook" target="@dabeaz">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="python cookbook" target="@bkjones">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="python cookbook" target="@oreillymedia">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@daniellindsley" target="@kantrn">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@daniellindsley" target="@raymondh">
+      <data key="d3">2</data>
     </edge>
     <edge source="#pyladies" target="@bshaurette">
       <data key="d3">2</data>
     </edge>
     <edge source="#pyladies" target="@jessenoller">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pyladies" target="mountain view">
       <data key="d3">2</data>
     </edge>
     <edge source="#pyladies" target="#schwag">
@@ -2237,13 +3949,49 @@
     <edge source="#pyladies" target="#pdx">
       <data key="d3">2</data>
     </edge>
-    <edge source="#pyladies" target="@pyladies">
+    <edge source="#pyladies" target="#sfo">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#pyladies" target="#ladycoders">
       <data key="d3">2</data>
     </edge>
-    <edge source="#vmware" target="#rackspace">
+    <edge source="#grandesmentiras" target="the call jalen rose">
       <data key="d3">2</data>
     </edge>
-    <edge source="#vmware" target="#hpcloud">
+    <edge source="#grandesmentiras" target="#kcamessagetobtr">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#nailart" target="#styleseat">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="#nailart" target="nails sponsored by">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#openscience" target="#aaronsw">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#openscience" target="the internet">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#openscience" target="#science">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#openscience" target="#opensource">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#bof" target="#tipbof">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="pycon us" target="python language summit">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="pycon us" target="music theory">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="pycon us" target="performance analysis">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#yep" target="#sxsw">
       <data key="d3">2</data>
     </edge>
     <edge source="#yep" target="#news">
@@ -2255,110 +4003,29 @@
     <edge source="#yep" target="#ocra">
       <data key="d3">2</data>
     </edge>
-    <edge source="#yep" target="#vegas">
-      <data key="d3">2</data>
-    </edge>
     <edge source="#yep" target="#rnd">
       <data key="d3">2</data>
     </edge>
-    <edge source="@claytron" target="@davidblewett">
-      <data key="d3">8</data>
+    <edge source="performance analysis" target="music theory">
+      <data key="d3">4</data>
     </edge>
-    <edge source="@claytron" target="@gabriellehp">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="#startny" target="#buzzfeedbusiness">
+    <edge source="#decorations" target="#pretty">
       <data key="d3">2</data>
     </edge>
-    <edge source="#community" target="#vision">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#community" target="#raspberry">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#community" target="#awesome">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#community" target="#robots">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#dotcloud" target="#awesome">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@davidblewett" target="@gabriellehp">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@kennethlove" target="#cardsagainsthumanity">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#rnd" target="#news">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#rnd" target="#taurus">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#rnd" target="#ocra">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#rnd" target="#vegas">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@bshaurette" target="@roguelynn">
+    <edge source="@bshaurette" target="@raspberry_pi">
       <data key="d3">4</data>
     </edge>
     <edge source="@bshaurette" target="@jessenoller">
       <data key="d3">2</data>
     </edge>
-    <edge source="#wxpython" target="#arduino">
+    <edge source="#science" target="#opensource">
       <data key="d3">2</data>
     </edge>
-    <edge source="#wxpython" target="#rpi">
+    <edge source="#lax" target="#sfo">
       <data key="d3">2</data>
     </edge>
-    <edge source="#rackspace" target="#hpcloud">
+    <edge source="#news" target="#sxsw">
       <data key="d3">2</data>
-    </edge>
-    <edge source="#keynote" target="#awesome">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#keynote" target="@jessenoller">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#djangoproject" target="#django">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#djangoproject" target="#tutoring">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@styleseat" target="#dimepiece">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="@styleseat" target="#pixiedust">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@styleseat" target="#hot">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@styleseat" target="#flossgloss">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="#pretty" target="#decorations">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@roguelynn" target="@jessenoller">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@roguelynn" target="@jessicamckellar">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@roguelynn" target="@hynek">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@roguelynn" target="@jacobian">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="@roguelynn" target="@raymondh">
-      <data key="d3">4</data>
     </edge>
     <edge source="#news" target="#taurus">
       <data key="d3">2</data>
@@ -2366,229 +4033,193 @@
     <edge source="#news" target="#ocra">
       <data key="d3">2</data>
     </edge>
-    <edge source="#news" target="#vegas">
+    <edge source="#news" target="#rnd">
       <data key="d3">2</data>
-    </edge>
-    <edge source="@loggly" target="@rackspace">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="@loggly" target="#pyramid">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@loggly" target="@pyladies">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="@loggly" target="@beachgirl">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="@loggly" target="@bluebox">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="@ctitusbrown" target="@pramirez624">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@ctitusbrown" target="@pyladies">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#bottle" target="#pyramid">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#bottle" target="#flask">
-      <data key="d3">4</data>
     </edge>
     <edge source="#bottle" target="#django">
       <data key="d3">4</data>
     </edge>
-    <edge source="@pyladies" target="@rackspace">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="@pyladies" target="@bluebox">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="#dimepiece" target="#hot">
+    <edge source="#picrust" target="@raspberry_pi">
       <data key="d3">4</data>
     </edge>
-    <edge source="#dimepiece" target="#flossgloss">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="#jobfair" target="@twitter">
+    <edge source="@idangazit" target="#visualization">
       <data key="d3">2</data>
-    </edge>
-    <edge source="#vision" target="#awesome">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#vision" target="#raspberry">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#vision" target="#robots">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#fun" target="#awesome">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#fun" target="#nerdy">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#eda" target="#myhdl">
-      <data key="d3">4</data>
     </edge>
     <edge source="#openshift" target="#packaging">
       <data key="d3">2</data>
     </edge>
-    <edge source="#pep3156" target="#tulip">
+    <edge source="#openshift" target="#beaker">
       <data key="d3">2</data>
     </edge>
-    <edge source="@selenamarie" target="#pyramid">
+    <edge source="@openshift" target="#photo">
       <data key="d3">2</data>
-    </edge>
-    <edge source="#celery" target="#pyramid">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#pypgday2013" target="#pyramid">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#pypgday2013" target="#pylonsproject">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#taurus" target="#ocra">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#taurus" target="#vegas">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#nerdy" target="#awesome">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#flossgloss" target="#hot">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#testing" target="#hashtags">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#testing" target="#birdsofafeather">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#arduino" target="#rpi">
-      <data key="d3">10</data>
     </edge>
     <edge source="#pwds" target="@stenoknight">
       <data key="d3">2</data>
     </edge>
-    <edge source="#pwds" target="#healthit">
+    <edge source="@rackspace" target="a taste">
       <data key="d3">4</data>
-    </edge>
-    <edge source="#pwds" target="@adriarichards">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@rackspace" target="@bluebox">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="#pyramid" target="#django">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#pyramid" target="#flask">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#pyramid" target="#pylonsproject">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#raspberrypis" target="#awesome">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#kivy" target="#rpi">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#eventbrite" target="#ballroom">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#eventbrite" target="#364plus1">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#eventbrite" target="#poker">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#vegas" target="#ocra">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#birdsofafeather" target="#hashtags">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#rst" target="#hieroglyph">
-      <data key="d3">2</data>
     </edge>
     <edge source="#rst" target="#sphinx">
       <data key="d3">2</data>
     </edge>
-    <edge source="#youknowyoureatpyconwhen" target="@pramirez624">
+    <edge source="@jessicamckellar" target="#tech">
       <data key="d3">2</data>
     </edge>
-    <edge source="@beachgirl" target="@kellyshalk">
+    <edge source="@jessicamckellar" target="#opensource">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ada initiative feminist hacker lounge" target="what's working">
       <data key="d3">4</data>
     </edge>
-    <edge source="@pramirez624" target="#safeway">
+    <edge source="#pdx" target="#sfo">
       <data key="d3">2</data>
     </edge>
-    <edge source="@adriarichards" target="#healthit">
+    <edge source="#lca2013" target="@jessenoller">
       <data key="d3">2</data>
     </edge>
-    <edge source="#sphinx" target="#hieroglyph">
+    <edge source="#philly" target="mountain view">
       <data key="d3">2</data>
     </edge>
-    <edge source="@jessicamckellar" target="@geography76">
+    <edge source="#ocra" target="#sxsw">
       <data key="d3">2</data>
     </edge>
-    <edge source="@stenoknight" target="@garybernhardt">
+    <edge source="#ocra" target="#taurus">
       <data key="d3">2</data>
     </edge>
-    <edge source="@stenoknight" target="#healthit">
+    <edge source="#ocra" target="#rnd">
       <data key="d3">2</data>
     </edge>
-    <edge source="@stenoknight" target="#vim">
+    <edge source="#sunday" target="#pep3156">
       <data key="d3">2</data>
     </edge>
-    <edge source="#getcomfy" target="@geography76">
+    <edge source="#sunday" target="#io">
       <data key="d3">2</data>
     </edge>
-    <edge source="#robots" target="#raspberry">
+    <edge source="@raymondh" target="@jessenoller">
       <data key="d3">2</data>
     </edge>
-    <edge source="#robots" target="#awesome">
+    <edge source="la fontana restaurant" target="la fontana restaurant">
       <data key="d3">2</data>
     </edge>
-    <edge source="#364plus1" target="#ballroom">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="#364plus1" target="#poker">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="@kellyshalk" target="@twitter">
+    <edge source="star wars lego" target="job fair">
       <data key="d3">4</data>
     </edge>
-    <edge source="@jessenoller" target="@raymondh">
+    <edge source="the call jalen rose" target="#kcamessagetobtr">
       <data key="d3">2</data>
     </edge>
-    <edge source="@jessenoller" target="@jacobian">
+    <edge source="@raspberry_pi" target="@jessenoller">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="@raspberry_pi" target="#pifarm">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="mountain view" target="#shdh">
       <data key="d3">2</data>
     </edge>
-    <edge source="#django" target="#android">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#django" target="#flask">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="#django" target="#tutoring">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#flask" target="#android">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="#ballroom" target="#poker">
+    <edge source="#io" target="#pep3156">
       <data key="d3">2</data>
     </edge>
-    <edge source="@raymondh" target="@jacobian">
+    <edge source="#taurus" target="#sxsw">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#taurus" target="#rnd">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="star war lego" target="job fair">
       <data key="d3">4</data>
     </edge>
-    <edge source="#raspberry" target="#awesome">
+    <edge source="#styleseat" target="nails sponsored by">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#styleseat" target="#dimepiece">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="@dabeaz" target="@bkjones">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#sxsw" target="#buzzfeedbusiness">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#sxsw" target="#rnd">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="the internet" target="#aaronsw">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@davidblewett" target="@crlganz">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@davidblewett" target="six feet up">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@davidblewett" target="@claytron">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="#celery" target="job fair">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#arduino" target="#wxpython">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#beaker" target="#packaging">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#nothingfeelsbetterthan" target="#kcamessagetobtr">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#nothingfeelsbetterthan" target="#2013chappys">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#nothingfeelsbetterthan" target="#nothingfeelsbetterthan">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="a slice" target="ha ha ha">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#inclusion" target="#diversity">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#tipbof" target="#noreally">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="next up" target="#gotanawesomeseat">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#mozilla" target="#adainitiative">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#2013chappys" target="#kcamessagetobtr">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@kantrn" target="@jessenoller">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@kantrn" target="@bkjones">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="#wishyouwerehere" target="#railscastmyass">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="@claytron" target="@crlganz">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="@claytron" target="six feet up">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#ladycoders" target="#schwag">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pifarm" target="#pifarm">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#pyfes" target="#pyconjp">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="#keynote" target="@jessenoller">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="six feet up" target="@crlganz">
       <data key="d3">2</data>
     </edge>
   </graph>
