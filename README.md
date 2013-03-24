@@ -68,3 +68,13 @@ Other arguments:
 
     --remove_usernames_below n  # strip users with less than n occurrences
     --remove_hashtags_below n  # strip hashtags with less than n occurrences
+
+
+Todo:
+----
+
+Remove various types of quotes to normalise phrases:
+  * how we all lost\u2019 (double quotes)
+  * how we all lost' (single quote)
+
+Perhaps following URL link shortners and then take the domain name as a new link in the graph (e.g. bbc.co.uk, techcrunch.com).

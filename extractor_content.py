@@ -11,14 +11,14 @@ import maksim_utils
 import networkx as nx
 import matplotlib.pyplot as plt
 import make_ngrams
+import colloc_analysis
 
 plt.__str__  # silly way to stop pylint error (use plt in IPython)
 
 # Usage:
 # load datasets into memory, also output a text file for later parsing
-# $ %run extractor_content.py --json-raw /media/2ndDrive/data/streaming-twitter-data/pycon/tweets_pycon0.json /media/2ndDrive/data/streaming-twitter-data/pycon/tweets_pycon.json -o clean_pycon.json
-# $ %run extractor_content.py --json-cleaned clean_pycon.json  --remove-nodes #pycon #python #pycon2013 @pycon --draw-networkx
-# $ %run extractor_content.py --json-cleaned clean_pycon.json  --remove-nodes #pycon #python #pycon2013 @pycon --write-graphml pyconout.graphml
+# $ %run extractor_content.py --json-raw /media/2ndDrive/data/streaming-twitter-data/pycon/tweets_pycon0.json /media/2ndDrive/data/streaming-twitter-data/pycon/tweets_pycon.json -o clean_pycon_withtweets.json
+# $ %run extractor_content.py --json-cleaned clean_pycon_withtweets.json  --remove-nodes #pycon #python #pycon2013 @pycon --write-graphml pyconout.graphml --remove-hashtags-below 3 --remove-usernames-below 15 --remove-phrases-below 3
 
 # pydata
 # $ %run extractor_content.py --json-raw /media/2ndDrive/data/streaming-twitter-data/pycon/tweets_pydata0.json /media/2ndDrive/data/streaming-twitter-data/pycon/tweets_pydata.json -o clean_pydata.json
@@ -50,14 +50,14 @@ def get_tweets(tweets):
             logging.debug("Odd! We have a ValueError when json.loads(tweet): %r" % repr(err))
 
 
-def filter_http(tweets):
-    """Ignore links with http links (can be useful to ignore spam)"""
-    for tweet in tweets:
-        try:
-            if 'http' not in tweet['text']:
-                yield tweet
-        except KeyError as err:
-            logging.debug("Odd! We have a KeyError: %r" % repr(err))
+#def filter_http(tweets):
+    #"""Ignore links with http links (can be useful to ignore spam)"""
+    #for tweet in tweets:
+        #try:
+            #if 'http' not in tweet['text']:
+                #yield tweet
+        #except KeyError as err:
+            #logging.debug("Odd! We have a KeyError: %r" % repr(err))
 
 
 def get_tweet_text(tweets):
@@ -84,7 +84,6 @@ def get_useful_information(tweet_parser, tweets):
         hashtags = [tag.lower() for tag in result.tags]
         users = [user.lower() for user in result.users]
         items = {'hashtags': ['#' + h for h in hashtags], 'tweet': text, 'screen_name': screen_name, 'users': ['@' + usr for usr in users]}
-        #items = {'hashtags': ['#' + h for h in hashtags], 'screen_name': screen_name, 'users': ['@' + usr for usr in users]}
         yield items
 
 
@@ -117,6 +116,8 @@ def build_and_trim_network(json_cleaned_lines, remove_nodes, remove_usernames_be
 
     hashtag_net = nx.Graph()
 
+    top_collocations = colloc_analysis.extract_top_collocations(items)
+
     for item in items:
         # combine hashtags and users into one list of things to pair up
         all_items = item['hashtags'] + item['users']
@@ -126,14 +127,20 @@ def build_and_trim_network(json_cleaned_lines, remove_nodes, remove_usernames_be
                 capitalised_words = " ".join(word_sequence)
                 capitalised_words = capitalised_words.lower()  # normalise e.g. Github GitHub GITHUB -> github
                 all_items.append(capitalised_words)
+
+        # extract frequent collocations
+        tweet_cleaned_lowercased = " ".join(colloc_analysis.tweet_as_terms(item['tweet']))
+        for top_collocation in top_collocations:
+            tc = " ".join(top_collocation)
+            if tc in tweet_cleaned_lowercased:
+                all_items.append(tc)  # add collocation phrase
+
         # add nodes with a default weight
         for item in all_items:
             add_node(hashtag_net, item)
         for t1 in all_items:
             for t2 in all_items:
                 if t1 is not t2:
-                    #add_node(hashtag_net, t1)
-                    #add_node(hashtag_net, t2)
                     maksim_utils.add_or_inc_edge(hashtag_net, t1, t2)
 
     for node in hashtag_net.nodes():
