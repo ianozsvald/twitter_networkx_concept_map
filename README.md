@@ -3,6 +3,11 @@ twitter_networkx_concept_map
 
 Take streaming tweets, extract hashtags &amp; usernames, create graph, export graphml for Gephi visualisation
 
+Write-ups:
+
+  * http://ianozsvald.com/2013/03/22/analysing-pydata-london-and-brighton-tweets-for-concept-mapping/
+  * http://ianozsvald.com/2013/03/18/semantic-map-of-pycon2013-twitter-topics/
+
 Asknowledgements:
 ----------------
 
@@ -70,11 +75,41 @@ Other arguments:
     --remove_hashtags_below n  # strip hashtags with less than n occurrences
 
 
+License
+-------
+
+*MIT*
+
+Copyright (c) 2013 Ian Ozsvald.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+Copyright (c) 2013 Ian Ozsvald
+
+
+
 Todo:
 ----
 
 Remove various types of quotes to normalise phrases:
   * how we all lost\u2019 (double quotes)
   * how we all lost' (single quote)
+  * consider adding root URLs (e.g. bbc.co.uk) or URL titles
 
 Perhaps following URL link shortners and then take the domain name as a new link in the graph (e.g. bbc.co.uk, techcrunch.com).
