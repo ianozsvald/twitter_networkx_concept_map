@@ -157,7 +157,10 @@ def build_and_trim_network(json_cleaned_lines, remove_nodes, remove_usernames_be
 
     # remove nodes that too many people might be connected to
     for removal in remove_nodes:
-        hashtag_net.remove_node(removal)
+        try:
+            hashtag_net.remove_node(removal)
+        except nx.NetworkXError as err:
+            logging.warning("Node %r not in the graph (error==%r)" % (removal, err))
 
     # remove singularly connected nodes until none left
     while True:
@@ -224,7 +227,7 @@ if __name__ == "__main__":
                 graphviz = False
             if graphviz:
                 logging.info("Drawing using GraphViz layout engine")
-                nx.draw_graphviz(hashtag_net)
+                nx.draw_graphviz(hashtag_net, edge_color="b")
             else:
                 logging.info("Drawing using NetworkX layout engine")
                 nx.draw_networkx(hashtag_net)
