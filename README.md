@@ -75,6 +75,15 @@ Other arguments:
     --remove_hashtags_below n  # strip hashtags with less than n occurrences
 
 
+Output just the text from tweets in the named period:
+
+    $ python extract_tweet_updates_to_file.py --json-raw <something>.json --text-file text.txt --ff 2013-04-11T22:00:10.044491+00:00 --ft 2013-04-11T23:00:00+00:00
+
+To output just a filtered set of data (keeping anything except RTs in the date range):
+
+    $ extract_tweet_updates_to_file.py --json-raw <something>.json --output reduced_raw.json --ff 2013-04-11T22:00:10.044491+00:00 --ft 2013-04-11T23:00:00+00:00
+
+
 License
 -------
 

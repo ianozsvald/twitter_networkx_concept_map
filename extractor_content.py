@@ -60,7 +60,7 @@ def get_tweets(tweets):
             #logging.debug("Odd! We have a KeyError: %r" % repr(err))
 
 
-def get_tweet_text(tweets):
+def get_tweet_body(tweets):
     """Get tweets, ignore ReTweets"""
     for tweet in tweets:
         try:
@@ -195,7 +195,7 @@ if __name__ == "__main__":
         tweets = get_tweets(all_json_lines)
 
         # get tweets (ignore rubbish from streaming api), extract useful info
-        stream = get_tweet_text(tweets)
+        stream = get_tweet_body(tweets)
         stream = get_useful_information(tweet_parser, stream)
         if args.output:
             output = open(args.output, 'w')
