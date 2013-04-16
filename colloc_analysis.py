@@ -49,5 +49,7 @@ if __name__ == "__main__":
     for line in open(args.json_cleaned):
         items.append(json.loads(line))
     top_collocations = extract_top_collocations(items)
-    #print finder.nbest(trigram_measures.pmi, 10)
     print top_collocations
+    top_collocations = extract_top_collocations(items, use_trigrams=True)
+    print top_collocations
+
