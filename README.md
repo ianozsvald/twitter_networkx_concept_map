@@ -47,6 +47,9 @@ You also need the following:
 The easy way to get these is to install:
 
     $ pip install -r requirements.txt
+    $ pip install -r requirements_2.txt  # installs matplotlib after numpy from first requirements file
+
+Note the above use of 2 requirements files is due to a matplotlib setup issue: https://github.com/matplotlib/matplotlib/wiki/MEP11 
 
 Usage:
 -----

@@ -1,0 +1,4 @@
+matplotlib==1.2.0
+pygraphviz==1.1
+ipython==0.13.1
+
